@@ -6,4 +6,4 @@
 
 **Thoughts:** Very satisfying to have worked through 2 of the challenges without help. I did get stuck on an array challenge and had to look up the answer. Even with the answer I didn't completely understand the function. 
 
-**Link to work:** FreeCodeCamp Profile (https://www.freecodecamp.org/d-pagey)
+**Link to work:** [FreeCodeCamp Profile] (https://www.freecodecamp.org/d-pagey)
