@@ -3,8 +3,6 @@
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
 
 ## If you've decided to join:
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
