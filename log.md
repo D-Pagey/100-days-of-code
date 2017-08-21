@@ -12,6 +12,6 @@
 
 **Today's Progress:** Finished Basic Algorithmic challenges on FCC
 
-**Thoughts:** This was the most frustrating coding session yet. I've identified looping through arrays as a weakness that I need to work on. I realised this as all of the algorithms this evening involved looping through an array. I struggled with all 5 of the challenges and even after having looked up the answer, I didn't fully understand the solution. Glad to be done with algorithms and go back to working on a project for my next coding session, but I do need to come back and master these challenges. 
+**Thoughts:** This was the most frustrating coding session yet. I've identified looping through arrays as a weakness that I need to work on. I struggled with all 5 of the challenges and even after having looked up the answer, I didn't fully understand the solution. Glad to be done with algorithms and go back to working on a project for my next coding session, but I do need to come back and master these challenges. 
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
