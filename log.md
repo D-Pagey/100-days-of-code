@@ -22,4 +22,6 @@
 
 **Thoughts:** Much better coding session than yesterday, really enjoyed this one. The Bootstrap documentation was a lot easier to understand having worked in JavaScript the past few weeks. I restarted my FreeCodeCamp Tribute Page and am almost finished, this has been a small project I've wanted to redo for a while. I should be able to finish this quickly tomorrow and then move on to redoing my FCC Personal Portfolio. 
 
+Side-note: Felt a lot fresher waking up early to code before work than trying to code late at night. 
+
 **Link to work:** [Tribute Page](https://codepen.io/Pagey/full/GmOYdm/)
