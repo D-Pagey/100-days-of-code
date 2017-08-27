@@ -25,3 +25,20 @@
 Side-note: Felt a lot fresher waking up early to code before work than trying to code late at night. 
 
 **Link to work:** [Tribute Page](https://codepen.io/Pagey/full/GmOYdm/)
+
+### Day 3: 23rd August 2017
+
+**Today's Progress:** Finished tribute page and understood Bootstrap's grid system better. 
+
+**Thoughts:** I worked out 2 problems with alignment that involved learning the grid system properly. One of the key lessons learnt - I need to set a row + column for every section. I feel like I gained a much stronger understanding of how containers, rows and columns work in Bootstrap. I still need to practice more in order to master it but I definitely made some progress. I'm also happy to have finished my first "project", the FCC tribute page, I still have things to perfect but for a beginner first project I'm happy. I'm now keen to move onto new projects. 
+
+**Link to work:** [Tribute Page](https://codepen.io/Pagey/full/GmOYdm/)
+
+
+
+ 
+
+
+
+
+
