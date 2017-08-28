@@ -34,7 +34,7 @@ Side-note: Felt a lot fresher waking up early to code before work than trying to
 
 **Link to work:** [Tribute Page](https://codepen.io/Pagey/full/GmOYdm/)
 
-### Day 4: 28th August 2017
+### Day 4: 27th August 2017
 
 **Today's Progress:** Started Bootstrap Portfolio from scratch
 
@@ -42,7 +42,15 @@ Side-note: Felt a lot fresher waking up early to code before work than trying to
 
 **Link to work:** [Bootstrap Portfolio](https://codepen.io/Pagey/pen/GmwQeO)
 
+### Day 5: 28th August 2017
 
+**Today's Progress:** Learnt some differences between the versions of Bootstrap. 
+
+**Thoughts:** I really struggled try to get Bootstrap 3.x and Bootstrap 4.0 working for my Portfolio site. Some things would work on BootStrap 3.x but not BootStrap 4.0 and vice versa. I ended up deleting my portfolio so I can start all over again as I was getting frustrated. 
+
+On the bright side - I did manage to get my Tribute page working locally and then uploaded to Github. 
+
+**Link to work:** [Tribute Page Repo](https://github.com/D-Pagey/FCC-Tribute-Page)
 
  
 
