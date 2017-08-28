@@ -34,6 +34,14 @@ Side-note: Felt a lot fresher waking up early to code before work than trying to
 
 **Link to work:** [Tribute Page](https://codepen.io/Pagey/full/GmOYdm/)
 
+### Day 4: 28th August 2017
+
+**Today's Progress:** Started Bootstrap Portfolio from scratch
+
+**Thoughts:** Quite a frustrating session as I couldn't work out why Bootstrap wasn't working in my Codepen - only to realise 60 minutes later that it was due to my settings. I've deleted my old portfolio and am starting from scratch, I think I would like to be able to finish it in the next 1-2 coding sessions. Annoyed because I didn't feel like I learnt a huge amount from this session, although I did spend a lot of time reading documentation. 
+
+**Link to work:** [Bootstrap Portfolio](https://codepen.io/Pagey/pen/GmwQeO)
+
 
 
  
