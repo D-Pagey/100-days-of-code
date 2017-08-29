@@ -52,7 +52,13 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Link to work:** [Tribute Page Repo](https://github.com/D-Pagey/FCC-Tribute-Page)
 
- 
+ ### Day 6: 29th August 2017
+
+**Today's Progress:** Made a solid start to the portfolio. 
+
+**Thoughts:** Started portfolio from scratch and decided to get the easier parts done first rather than getting frustrated with the navbar. It was a really useful session and really productive, I feel really happy with what I have so far and good foundation to build on. Now when I get frustrated I have the motivation to see it through as I already have done a chunk of work. 
+
+**Link to work:** [FCC Portfolio Page](https://codepen.io/Pagey/pen/xLyeNz)
 
 
 
