@@ -64,7 +64,7 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Today's Progress:** Portfolio 80% completed 
 
-**Thoughts:** Another good pre-work session, I managed to fix some issues I had just by thinking of solutions in CSS and not needing to look anything up. I feel more confident about coding and am getting to grips with everything although, this might go away once I tackle building a navbar. I just need to finish off the social media buttons and add a navbar (hardest part) and then I'll be done with my 2nd project! 
+**Thoughts:** Another good pre-work session, I managed to fix some issues I had just by thinking of solutions in CSS and not needing to look anything up. I feel more confident about coding and am getting to grips with everything. However, this is likely to go away once I tackle building a navbar. I just need to finish off the social media buttons and add a navbar (hardest part) and then I'll be done with my 2nd project! 
 
 **Link to work:** [FCC Portfolio Page](https://codepen.io/Pagey/pen/xLyeNz)
 
