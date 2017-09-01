@@ -68,5 +68,13 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Link to work:** [FCC Portfolio Page](https://codepen.io/Pagey/pen/xLyeNz)
 
+ ### Day 8: 31st August 2017
+
+**Today's Progress:** Finished off FCC Portfolio. 
+
+**Thoughts:** I finished my FCC Portfolio so that it is in a state that I would be fine with someone seeing it. I could have made it a lot cooler and flashier but I wanted to move on to more difficult projects and I think I have fulfilled the brief to a good standard. Since I plan to create my own portfolio from scratch as well then I'd rather work on that than perfect a portfolio I'm not really planning on using again.  
+
+**Link to work:** [FCC Portfolio Page](https://codepen.io/Pagey/pen/xLyeNz)
+
 
 
