@@ -76,5 +76,13 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Link to work:** [FCC Portfolio Page](https://codepen.io/Pagey/pen/xLyeNz)
 
+ ### Day 9: 9th September 2017
+
+**Today's Progress:** Learning about APIs, JSON and AJAX
+
+**Thoughts:** After an extended coding break due to girl issues, I came back to it with a fresh challenge of using APIs and AJAX to build a random quote page. I struggled with applying the lessons on FCC so decided to visit Udacity and started studying a course on it. I've built the foundation of the page and now just need to pull the random quotes through. 
+
+**Link to work:** [FCC Random Quote Page](https://codepen.io/Pagey/pen/eEXRZy)
+
 
 
