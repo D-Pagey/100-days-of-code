@@ -84,5 +84,11 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Link to work:** [FCC Random Quote Page](https://codepen.io/Pagey/pen/eEXRZy)
 
+ ### Day 10: 10th September 2017
 
+**Today's Progress:** Learning about Arrays, AJAX and CSS
+
+**Thoughts:** Since I didn't start the session until around 2am, I decided to spend the hour of coding on training videos rather than trying to struggle through AJAX Requests. To be honest, given some personal life stuff, I'm just glad I sat down to focus on coding for an hour. However, I'll do get back to getting my hands dirty in proper coding tomorrow. 
+
+**Link to work:** N/A
 
