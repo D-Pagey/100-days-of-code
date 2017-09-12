@@ -92,3 +92,11 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Link to work:** N/A
 
+### Day 11: 12th September 2017
+
+**Today's Progress:** Sorted API function
+
+**Thoughts:** Finished working on the API function, just working on the Twitter button and some styling and I'll have finished my first intermediate project. I was getting frustrated with not knowing things 100% but I learnt to struggle through it and try to understand things as I go. 
+
+**Link to work:** [FCC Random Quote Page](https://codepen.io/Pagey/pen/eEXRZy)
+
