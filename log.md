@@ -102,7 +102,7 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 ### Day 12: 13th September 2017
 
-**Today's Progress:** Finsihed Intermediate FCC Project
+**Today's Progress:** Finished Intermediate FCC Project
 
 **Thoughts:** I hacked together some dodgy code to make my Twitter button work as desired. I will likely come back to it in the future and beat myself up about it. On the bright side, I have now finished my first intermediate Free Code Camp project which I am happy about! I find that my feelings on coding alternate from despair to joy depending on the session. I know I've just got to keep learning and coding every day. I have some options of what to work on next so pretty excited for my coding session tomorrow.  
 
