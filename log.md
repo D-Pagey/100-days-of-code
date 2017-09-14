@@ -108,4 +108,12 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Link to work:** [FCC Random Quote Page](https://codepen.io/Pagey/pen/eEXRZy)
 
+### Day 13: 14th September 2017
+
+**Today's Progress:** Successfully pushed local project to Github repo
+
+**Thoughts:** I am pretty happy that I've started to learn and wrap my head around Git Bash commands. I pushed my local Random Quote Machine to Github and it all worked. It kind of made sense in my head as well which is a first, I'm starting to feel optimistic that the various aspects of being a developer are clicking into place. From now on I will try update my Github exclusively using Git, I just need to learn how to update a repo when I don't have it stored locally...
+
+**Link to work:** [Github Repository](https://github.com/D-Pagey/FCC-Random-Quote-Machine)
+
 
