@@ -116,4 +116,10 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Link to work:** [Github Repository](https://github.com/D-Pagey/FCC-Random-Quote-Machine)
 
+### Day 14: 15th September 2017
 
+**Today's Progress:** Finished an Intermed Algorithmic Script
+
+**Thoughts:** Not the most productive session, watched an Egghead video and a YT video on Pull Requests. After that I started on the intermediate algorithmic scripts on FCC. I had to look up the first one however I have almost wrapped my head around the second one. I'm not going to look up the answer and make sure I work it out myself. I like that I have the option to work on Git/Github tasks, FCC Projects or FCC Algorithms depending on my mood! 
+
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
