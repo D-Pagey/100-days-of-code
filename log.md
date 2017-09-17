@@ -123,3 +123,11 @@ On the bright side - I did manage to get my Tribute page working locally and the
 **Thoughts:** Not the most productive session, watched an Egghead video and a YT video on Pull Requests. After that I started on the intermediate algorithmic scripts on FCC. I had to look up the first one however I have almost wrapped my head around the second one. I'm not going to look up the answer and make sure I work it out myself. I like that I have the option to work on Git/Github tasks, FCC Projects or FCC Algorithms depending on my mood! 
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
+
+### Day 15: 17th September 2017
+
+**Today's Progress:** Completed more FCC Intermediate Algorithms 
+
+**Thoughts:** Managed to hack my way through an intermediate challenge without looking anything up. However the next challenge I really struggled with and had to look up the solution, which always makes me feel like I'm cheating. Overall I'm half wrapping my head around these challenges but I guess slowly but surely I'm learning. I think that in the future I will go back over all the algorithm challenges and redo them until I can complete them off the top of my head. 
+
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
