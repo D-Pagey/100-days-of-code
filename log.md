@@ -131,3 +131,11 @@ On the bright side - I did manage to get my Tribute page working locally and the
 **Thoughts:** Managed to hack my way through an intermediate challenge without looking anything up. However the next challenge I really struggled with and had to look up the solution, which always makes me feel like I'm cheating. Overall I'm half wrapping my head around these challenges but I guess slowly but surely I'm learning. I think that in the future I will go back over all the algorithm challenges and redo them until I can complete them off the top of my head. 
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
+
+### Day 16: 18th September 2017
+
+**Today's Progress:** Published FCC Portfolio to own domain 
+
+**Thoughts:** Pretty happy with today's session as I managed to push my website via Git with no problems. My own domain works now with my FCC Portfolio and I have even more inspiration to update and perfect it. Even though I know this isn't what learning is about - I was quite happy that I didn't have any huge stumbling blocks today. 
+
+**Link to work:** [Personal Website](http://www.danpage.co.uk)
