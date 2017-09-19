@@ -139,3 +139,11 @@ On the bright side - I did manage to get my Tribute page working locally and the
 **Thoughts:** Pretty happy with today's session as I managed to push my website via Git with no problems. My own domain works now with my FCC Portfolio and I have even more inspiration to update and perfect it. Even though I know this isn't what learning is about - I was quite happy that I didn't have any huge stumbling blocks today. 
 
 **Link to work:** [Personal Website](http://www.danpage.co.uk)
+
+### Day 17: 19th September 2017
+
+**Today's Progress:** Started FCC Local Weather App
+
+**Thoughts:** Made a very basic design for the app and then learnt about getElementById and how to manipulate the HTML with JavaScript. I feel like this project is going to be quite challenging but I made some progress with it and learnt more JavaScript. 
+
+**Link to work:** [Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
