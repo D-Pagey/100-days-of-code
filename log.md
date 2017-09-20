@@ -147,3 +147,11 @@ On the bright side - I did manage to get my Tribute page working locally and the
 **Thoughts:** Made a very basic design for the app and then learnt about getElementById and how to manipulate the HTML with JavaScript. I feel like this project is going to be quite challenging but I made some progress with it and learnt more JavaScript. 
 
 **Link to work:** [Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
+
+### Day 18: 20th September 2017
+
+**Today's Progress:** Made Local Weather App work locally and pushed to GitHub
+
+**Thoughts:** Not the most productive pre-work coding session. Watched a video on Branches and Pull Requests then made my Local Weather App work locally. Ran into issues with linking the CSS and then getting the CSS colors to work without "!important" - which I didn't actually achieve. Finally pushed that local repo to GitHub just to track progress on my profile but overall don't feel like I learnt or did that much this morning. 
+
+**Link to work:** [Github Profile](https://github.com/D-Pagey)
