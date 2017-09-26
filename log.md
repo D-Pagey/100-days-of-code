@@ -155,3 +155,13 @@ On the bright side - I did manage to get my Tribute page working locally and the
 **Thoughts:** Not the most productive pre-work coding session. Watched a video on Branches and Pull Requests then made my Local Weather App work locally. Ran into issues with linking the CSS and then getting the CSS colors to work without "!important" - which I didn't actually achieve. Finally pushed that local repo to GitHub just to track progress on my profile but overall don't feel like I learnt or did that much this morning. 
 
 **Link to work:** [Github Profile](https://github.com/D-Pagey)
+
+### Day 19: 25th September 2017
+
+**Today's Progress:** Create a button to gather latitude/longitude of user. 
+
+**Thoughts:** Probably my worst coding session to date. I felt really tired after a long day at work and not in the right mindset to push myself out of comfort zone and learn. I tried an FCC intermediate algorithm and didn't get far off the start, then had to cheat and find the answer and still didn't understand it. 
+I then moved on to working on my Local Weather App project and only managed to add a button that pulls the co-ordinates, which isn't what I wanted. 
+After a while I got frustrated and resorted to watching coding related YT videos. Although I did decide to push my pathetic coding session to Github for the sake of creating the habit of pushing all my code. 
+
+**Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather) 
