@@ -165,3 +165,12 @@ I then moved on to working on my Local Weather App project and only managed to a
 After a while I got frustrated and resorted to watching coding related YT videos. Although I did decide to push my pathetic coding session to Github for the sake of creating the habit of pushing all my code. 
 
 **Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather) 
+
+### Day 20: 27th September 2017
+
+**Today's Progress:** Researched and worked out what I need to do 
+
+**Thoughts:** I feel better about this session than the last one, despite not really making much headway or pushing anything to Github. I researched a lot of other peoples projects and worked out what I need to do in order to pull users' location. 
+I think I massively udnerestimate how long it takes to learn and complete a project and therefore get frustrated when I can't do things straight away. 
+
+**Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM) 
