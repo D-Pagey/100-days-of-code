@@ -174,3 +174,11 @@ After a while I got frustrated and resorted to watching coding related YT videos
 I think I massively udnerestimate how long it takes to learn and complete a project and therefore get frustrated when I can't do things straight away. 
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM) 
+
+### Day 21: 30th September 2017
+
+**Today's Progress:**  Finished 2x Intermediate Algorithim Challenges
+
+**Thoughts:** I watched a few YT videos on Regular Expressions and gained a better understanding. In my coding hour, I managed to complete 2 of the intermediate algorithmic challenges. I don't think I give myself enough credit for how much I do know at this point. 2 steps closer to achievement the Front End Certification from FCC. 
+
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey) 
