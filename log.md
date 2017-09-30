@@ -179,6 +179,6 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:**  Finished 2x Intermediate Algorithim Challenges
 
-**Thoughts:** I watched a few YT videos on Regular Expressions and gained a better understanding. In my coding hour, I managed to complete 2 of the intermediate algorithmic challenges. I don't think I give myself enough credit for how much I do know at this point. 2 steps closer to achievement the Front End Certification from FCC. 
+**Thoughts:** I watched a few YT videos on Regular Expressions and gained a better understanding. In my coding hour, I managed to complete 2 of the intermediate algorithmic challenges. I don't think I give myself enough credit for how much I do know at this point as I picked up the areas I had to look up quite quickly. Anyway, 2 steps closer to achievement the Front End Certification from FCC. 
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey) 
