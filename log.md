@@ -182,3 +182,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** I watched a few YT videos on Regular Expressions and gained a better understanding. In my coding hour, I managed to complete 2 of the intermediate algorithmic challenges. I don't think I give myself enough credit for how much I do know at this point as I picked up the areas I had to look up quite quickly. Anyway, 2 steps closer to achievement the Front End Certification from FCC. 
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey) 
+
+### Day 22: 1st October 2017
+
+**Today's Progress:** Learnt Regex, Git and API calls.
+
+**Thoughts:** Quite a productive day having spent over 3 hours either coding or learning about coding concepts. Completed a regular expression tutorial, finished watching a course on Git commands and wrapped my head around API calls. I feel confident that I know what I need to do to functionally do the Local Weather App, now I just need to sit down and do it. With hindsight, I should have spent more time today actually coding but I do think a lot of what I watched has sunk in. 
+
+**Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
