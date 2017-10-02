@@ -195,6 +195,6 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Key breakthroughs in Local Weather App
 
-**Thoughts:** This has by far been my best coding session yet! I finally understood some really basic concepts that were about 80% there before. There were a few problems I managed to solve like: invoking a function, understanding a callback function, and bugfixing using the console. I made big headway with my Local Weather App and I feel like things are finally starting to click. I'm so happy with how this session went. 
+**Thoughts:** This has by far been my best coding session yet! I finally understood some really basic concepts that were about 80% there before. There were a few problems I managed to solve like: invoking a function, understanding a callback function, and bugfixing using the console. I made big headway with my Local Weather App and I feel like things are finally starting to click. I'm so happy with how this session - plenty of working through problems with trial and error to actually understand how the code works. 
 
 **Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/commit/e41d303b926a81eb38bfa3713561e5dca4656d26)
