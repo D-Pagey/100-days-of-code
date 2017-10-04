@@ -198,3 +198,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** This has by far been my best coding session yet! I finally understood some really basic concepts that were about 80% there before. There were a few problems I managed to solve like: invoking a function, understanding a callback function, and bugfixing using the console. I made big headway with my Local Weather App and I feel like things are finally starting to click. I'm so happy with how this session - plenty of working through problems with trial and error to actually understand how the code works. 
 
 **Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/commit/e41d303b926a81eb38bfa3713561e5dca4656d26)
+
+### Day 24: 4th October 2017
+
+**Today's Progress:** More accurate weather data pulled + displayed
+
+**Thoughts:** Successfully pulled the JSON data of the users' current location from the Open Weather API. I feel like I've done the hardest technical part of the project and now just need to work on 2 more simple aspects and then make it all look nice with HTML and CSS. I like the idea that this app could be the first Github project that has more JavaScript than HTML. Still quite a bit to go but enjoying the learning progress. 
+
+**Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/)
