@@ -206,3 +206,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Successfully pulled the JSON data of the users' current location from the Open Weather API. I feel like I've done the hardest technical part of the project and now just need to work on 2 more simple aspects and then make it all look nice with HTML and CSS. I like the idea that this app could be the first Github project that has more JavaScript than HTML. Still quite a bit to go but enjoying the learning progress. 
 
 **Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/)
+
+### Day 25: 7th October 2017
+
+**Today's Progress:** Weather dependent body class + relayout
+
+**Thoughts:** Big update on the project thanks to a pair programming session I had with the Front End Lead at work. Managed to set up the body class to be dependent on the weather data, so the background color changes on the weather. Now need to transfer this to an image and I'll have done another user story. I'm making progress and just need to up the consistency of my coding, today was a bit of a write off as was hungover. 
+
+**Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/)
