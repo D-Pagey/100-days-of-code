@@ -214,3 +214,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Big update on the project thanks to a pair programming session I had with the Front End Lead at work. Managed to set up the body class to be dependent on the weather data, so the background color changes on the weather. Now need to transfer this to an image and I'll have done another user story. I'm making progress and just need to up the consistency of my coding, today was a bit of a write off as was hungover. 
 
 **Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/)
+
+### Day 26: 8th October 2017
+
+**Today's Progress:** Added image and button, started functionality.
+
+**Thoughts:** Quite a productive session with making headway on 2 remaining user stories. The most difficult parts still to come but things are moving forward. I also think the process of trying new things or the learning curve is actually getting slightly shorter. I feel rather optimistic about coding in general, however I am looking forward to moving on from this project. Half of me wants it to be perfect and the other half wants to work on something new. 
+
+**Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
