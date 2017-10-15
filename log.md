@@ -222,3 +222,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Quite a productive session with making headway on 2 remaining user stories. The most difficult parts still to come but things are moving forward. I also think the process of trying new things or the learning curve is actually getting slightly shorter. I feel rather optimistic about coding in general, however I am looking forward to moving on from this project. Half of me wants it to be perfect and the other half wants to work on something new. 
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
+
+### Day 27: 15th October 2017
+
+**Today's Progress:** Used Fetch API
+
+**Thoughts:** It's been a while since I've done a proper coding session, although I have been doing smaller and mini ones in between. I've been quite anxious to put in a big coding session as I feel like I was in a bit of a mess with this Local Weather App project. However, I have organised the code better and replaced the XML HTTP Request with the Fetch API. I am slowly making progress and just need to keep coding each day and pushing my code to Github. 
+
+**Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
