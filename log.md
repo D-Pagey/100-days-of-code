@@ -230,3 +230,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** It's been a while since I've done a proper coding session, although I have been doing smaller and mini ones in between. I've been quite anxious to put in a big coding session as I feel like I was in a bit of a mess with this Local Weather App project. However, I have organised the code better and replaced the XML HTTP Request with the Fetch API. I am slowly making progress and just need to keep coding each day and pushing my code to Github. 
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
+
+### Day 28: 16th October 2017
+
+**Today's Progress:** Completed toggle button
+
+**Thoughts:** I'm really happy to have finished coding the toggle button on my weather app. I really wanted to do it in native JavaScript and I struggled through with the guidance of a friend from work. It feels so satisfying to get to the bottom of a difficult problem and then have something to show for it at the end. An added bonus is that for the first time, my project is now majority JavaScript!
+
+**Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
