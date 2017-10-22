@@ -239,7 +239,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
 
-### Day 29: 16th October 2017
+### Day 29: 22nd October 2017
 
 **Today's Progress:** Finished the Weather App project!
 
