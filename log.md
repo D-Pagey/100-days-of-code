@@ -238,3 +238,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** I'm really happy to have finished coding the toggle button on my weather app. I really wanted to do it in native JavaScript and I struggled through with the guidance of a friend from work. It feels so satisfying to get to the bottom of a difficult problem and then have something to show for it at the end. An added bonus is that for the first time, my project is now majority JavaScript!
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
+
+### Day 29: 16th October 2017
+
+**Today's Progress:** Finished the Weather App project!
+
+**Thoughts:** Had a really good coding session today, probably the longest time I've spent coding in one day. I've done 5x Intermediate challenges on FCC and finished the weather app project. Overall I'm feeling a lot more confident with all areas on coding and I'm so glad I've decided to do this challenge. I have learnt so much doing this project in all areas of creating a project in terms of both tech and non-tech. I'm full of confidence and just want to get started on the next project :)
+
+**Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
