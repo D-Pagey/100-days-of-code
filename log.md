@@ -246,3 +246,13 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Had a really good coding session today, probably the longest time I've spent coding in one day. I've done 5x Intermediate challenges on FCC and finished the weather app project. Overall I'm feeling a lot more confident in quite a few aspects of coding and I'm so glad I've decided to do this challenge. I have learnt so much from working on this project both technically and personally. I'm full of confidence and just want to get started on the next project :)
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
+
+### Day 30: 23rd October 2017
+
+**Today's Progress:** Updated GitHub page. 
+
+**Thoughts:** I spent well over an hour this evening simply updating all the repos on my GitHub page. This involved changing the repo names and therefore the remotes in Git. More importantly, I reviewed all my old code and it was amazing to see how much I had learnt in the short time I've been doing this. I've identified one of the projects I'd like to almost redo, hopefully it will be simply replacing the JQuery with native JavaScript. 
+
+**Link to work:** [GitHub page](https://github.com/D-Pagey)
+
+
