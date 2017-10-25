@@ -255,7 +255,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Link to work:** [GitHub page](https://github.com/D-Pagey)
 
-### Day 30: 23rd October 2017
+### Day 31: 25th October 2017
 
 **Today's Progress:** Updated old project with better code.  
 
