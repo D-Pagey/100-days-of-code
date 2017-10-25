@@ -255,4 +255,12 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Link to work:** [GitHub page](https://github.com/D-Pagey)
 
+### Day 30: 23rd October 2017
+
+**Today's Progress:** Updated old project with better code.  
+
+**Thoughts:** Revisted my Random Quote project as 1) it used JQuery and 2) I didn't understand my own code. I've managed to use the fetch API again but the project is no longer fully functional. I have a better comprehension of working with the DOM and APIs so it shouldn't take long to get the project working again, and for me to move on to a new project. 
+
+**Link to work:** [CodePen - Random Quoter](https://codepen.io/Pagey/pen/eEXRZy)
+
 
