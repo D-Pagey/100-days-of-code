@@ -263,4 +263,10 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Link to work:** [CodePen - Random Quoter](https://codepen.io/Pagey/pen/eEXRZy)
 
+### Day 32: 26th October 2017
 
+**Today's Progress:** Fixed a key API issue.
+
+**Thoughts:** Changed the API used so that each click does in fact bring a random quote. It feels good to have code on a project that I fully understand. A part of me wants to work on new projects, although I quickly realise the importance of making sure old code is updated and improved. One more user story and my old project will be up to a good standard. 
+
+**Link to work:** [CodePen - Random Quoter](https://codepen.io/Pagey/pen/eEXRZy)
