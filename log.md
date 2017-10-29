@@ -270,3 +270,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Changed the API used so that each click does in fact bring a random quote. It feels good to have code on a project that I fully understand. A part of me wants to work on new projects, although I quickly realise the importance of making sure old code is updated and improved. One more user story and my old project will be up to a good standard. 
 
 **Link to work:** [CodePen - Random Quoter](https://codepen.io/Pagey/pen/eEXRZy)
+
+### Day 33: 28th October 2017
+
+**Today's Progress:** Finished recoding an old project. 
+
+**Thoughts:** I'm very happy to have finished the Random Quote Machine for the 2nd time. The first time round it felt good to hack together something that worked. However, this time round I feel even better as my project works functionally *and* I understand all of the code in it. I feel like I've taken a big step in my coding over the last 2 weeks and I want to keep up the momentum. 
+
+**Link to work:** [GitHub - Random Quote Machine](https://github.com/D-Pagey/Quoter)
