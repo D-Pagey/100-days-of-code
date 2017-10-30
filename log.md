@@ -278,3 +278,13 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** I'm very happy to have finished the Random Quote Machine for the 2nd time. The first time round it felt good to hack together something that worked. However, this time round I feel even better as my project works functionally *and* I understand all of the code in it. I feel like I've taken a big step in my coding over the last 2 weeks and I want to keep up the momentum. 
 
 **Link to work:** [GitHub - Random Quote Machine](https://github.com/D-Pagey/Quoter)
+
+### Day 34: 29th October 2017
+
+**Today's Progress:** Started Wikipedia Viewer
+
+**Thoughts:** I updated all my Github READMEs and then quickly built the foundation for my next project. I was actually surprised at: 1) how quick I could whip up a Bootstrap layout and 2) I was able to write a JavaScript function off the top of my head. This project seems deceptively easy so it will be interesting to see how I get on with it. 
+
+**Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
+
+
