@@ -289,7 +289,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 ### Day 35: 30th October 2017
 
-**Today's Progress:** Algorithim challenges + Wikipedia API Research
+**Today's Progress:** Algorithm challenges + Wikipedia API Research
 
 **Thoughts:** Today I had a holiday from work and spent roughly 3.5 hours focused purely on either the algorithmic challenges or my new Wikipedia project. I worked through a difficult algorithmic challenge by myself without looking anything up, and then half completed another one before having to look up the solution. The rest of my time was spent trying to learn about the Wikipedia API call and to be honest, it's gone slower than I would have liked.  I've not made much progress on my Wikipedia project's code, but I think I have a slightly better understanding of what I need to do. 
 
