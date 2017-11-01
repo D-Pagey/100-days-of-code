@@ -299,6 +299,6 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** API call on Wikipedia project + slideshow on personal website
 
-**Thoughts:** I had a pretty good coding day today making progress on both my personal website and the Wikipedia project. For my personal website I created a click-through slideshow of pictures which I created for the sake of it. With the Wikipedia project, I still don't fully understand why some things work and other things don't but at th every least I managed to pull the data I need from Wikipedia - which is a positive sign. 
+**Thoughts:** I had a pretty good coding day today making progress on both my personal website and the Wikipedia project. For my personal website I created a click-through slideshow of pictures which I made for the sake of seeing if I could code it. With the Wikipedia project, I still don't fully understand why some things work and other things don't but at the every least I managed to pull the data I need from Wikipedia - which is a positive sign. 
 
 **Link to work:** [Personal Website](http://www.danpage.co.uk)
