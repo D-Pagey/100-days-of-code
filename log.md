@@ -310,3 +310,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Slowly wrapping my head around this Wikipedia project. Managed to get the titles and snippets displayed on the page by creating DOM elements in JavaScript. Feel like I have a long way to go but feel confident I'll get there in the end.  
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
+
+### Day 38: 6th November 2017
+
+**Today's Progress:** Created layout to display search results
+
+**Thoughts:** A colleague at work suggested I build how I want the layout to look and then work backwards. This made so much more sense to me than what I was doing. I built the foundation for how I want it to look and managed to input data from the API call into the layout. 
+
+**Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
