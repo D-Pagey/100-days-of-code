@@ -318,3 +318,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** A colleague at work suggested I build how I want the layout to look and then work backwards. This made so much more sense to me than what I was doing. I built the foundation for how I want it to look and managed to input data from the API call into the layout. 
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
+
+### Day 39: 8th November 2017
+
+**Today's Progress:** Title, snippet + link displays in HTML from search results. 
+
+**Thoughts:** Hardcoded all the HTML elements so I had something to push the API call data into. I feel like I'm over the hill with my understanding of this project although there is still quite a lot to do. There are quite a few aspects of my code that I know work but don't fully understand yet e.g. the API call to Wikipedia. I don't really like the feeling of not knowing what my own code does. 
+
+**Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
