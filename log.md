@@ -326,3 +326,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Hardcoded all the HTML elements so I had something to push the API call data into. I feel like I'm over the hill with my understanding of this project although there is still quite a lot to do. There are quite a few aspects of my code that I know work but don't fully understand yet e.g. the API call to Wikipedia. I don't really like the feeling of not knowing what my own code does. 
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
+
+### Day 40: 11th November 2017
+
+**Today's Progress:** Almost done fuctionally.
+
+**Thoughts:** Bit of a frustrating hour as didn't make enough progress to actually push some code. Basically the project works but I can't link the users' input and the Fetch API. I feel like it might just be a case of misunderstanding scope and closures and I think I'm so close to solving this problem. Once I get this right then functionally the project will be complete. I'm going to put in another hour to try and get through it. 
+
+**Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
