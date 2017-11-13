@@ -334,3 +334,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Bit of a frustrating hour as didn't make enough progress to actually push some code. Basically the project works but I can't link the users' input and the Fetch API. I feel like it might just be a case of misunderstanding scope and closures and I think I'm so close to solving this problem. Once I get this right then functionally the project will be complete. I'm going to put in another hour to try and get through it. 
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
+
+### Day 41: 12th November 2017
+
+**Today's Progress:** Fixed a big problem and added functionality to add/remove divs.
+
+**Thoughts:** Made quite a lot of progress since the last session. I fixed something that instantly made my project work properly and it was simply changing a Submit input to a button so it didn't refresh the page when clicked. I've also added functionality to add and remove divs as the user searches multiple times. I'm really happy with the progress I've made on this and this makes the 2nd project on GitHub with a majority JavaScript code in it!  
+
+**Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
