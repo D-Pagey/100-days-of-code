@@ -342,3 +342,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Made quite a lot of progress since the last session. I fixed something that instantly made my project work properly and it was simply changing a Submit input to a button so it didn't refresh the page when clicked. I've also added functionality to add and remove divs as the user searches multiple times. I'm really happy with the progress I've made on this and this makes the 2nd project on GitHub with a majority JavaScript code in it!  
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
+
+### Day 42: 18th November 2017
+
+**Today's Progress:** Finish Wikipedia. Now recreating ClearScore homepage. 
+
+**Thoughts:** It's been a week since I've put in a solid hour but I have been coding and pushing to GitHub every day. In that time I finished off my Wikipedia project (although I do plan to come back and improve the styling and refactor the JS) and now I have moved on to recreating the ClearScore homepage. This is a project that my colleague and mentor set me and focuses on improving my HTML and CSS. I've got off to an ok start but still a lot to do to make it look close to the real thing. 
+
+**Link to work:** [GitHub - ClearScore homepage](https://github.com/D-Pagey/ClearScore/commit/c98d8c1eec11987fd7329a058aa675d28fc3419a)
