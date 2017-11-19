@@ -4,7 +4,7 @@
 
 **Today's Progress:** Did 3 Algorithmic challenges on FCC
 
-**Thoughts:** Very satisfying to have worked through 2 of the challenges without help. I did get stuck on an array challenge and had to look up the answer. Even with the answer I didn't completely understand the function so this highlights I should do more work around arrays. 
+**Thoughts:** Very satisfying to have worked through 2 of the challenges without help. I did get stuck on an array challenge and had to look up the answer. Even with the answer I didn't completely understand the function so this highlights I should do more work around arrays.
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
 
@@ -12,7 +12,7 @@
 
 **Today's Progress:** Finished Basic Algorithmic challenges on FCC
 
-**Thoughts:** This was the most frustrating coding session yet. I've identified looping through arrays as a weakness that I need to work on. I struggled with all 5 of the challenges and even after having looked up the answer, I didn't fully understand the solution. Glad to be done with algorithms and go back to working on a project for my next coding session, but I do need to come back and master these challenges. 
+**Thoughts:** This was the most frustrating coding session yet. I've identified looping through arrays as a weakness that I need to work on. I struggled with all 5 of the challenges and even after having looked up the answer, I didn't fully understand the solution. Glad to be done with algorithms and go back to working on a project for my next coding session, but I do need to come back and master these challenges.
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
 
@@ -20,15 +20,15 @@
 
 **Today's Progress:** Restarted FCC Tribute Page
 
-**Thoughts:** Much better coding session than yesterday, really enjoyed this one. The Bootstrap documentation was a lot easier to understand having worked in JavaScript the past few weeks. I restarted my FreeCodeCamp Tribute Page and am almost finished, this has been a small project I've wanted to redo for a while. I should be able to finish this quickly tomorrow and then move on to redoing my FCC Personal Portfolio. 
+**Thoughts:** Much better coding session than yesterday, really enjoyed this one. The Bootstrap documentation was a lot easier to understand having worked in JavaScript the past few weeks. I restarted my FreeCodeCamp Tribute Page and am almost finished, this has been a small project I've wanted to redo for a while. I should be able to finish this quickly tomorrow and then move on to redoing my FCC Personal Portfolio.
 
-Side-note: Felt a lot fresher waking up early to code before work than trying to code late at night. 
+Side-note: Felt a lot fresher waking up early to code before work than trying to code late at night.
 
 **Link to work:** [Tribute Page](https://codepen.io/Pagey/full/GmOYdm/)
 
 ### Day 3: 23rd August 2017
 
-**Today's Progress:** Finished tribute page and understood Bootstrap's grid system better. 
+**Today's Progress:** Finished tribute page and understood Bootstrap's grid system better.
 
 **Thoughts:** I worked out 2 problems with alignment that involved learning the grid system properly. One of the key lessons learnt was that I need to set a row and column for every section. I feel like I gained a much stronger understanding of how containers, rows and columns work in Bootstrap. I still need to practice more in order to master it but I definitely made some progress. I'm also happy to have finished my first "project", the FCC tribute page, I still have things to perfect but for a beginner first project I'm happy.
 
@@ -38,39 +38,39 @@ Side-note: Felt a lot fresher waking up early to code before work than trying to
 
 **Today's Progress:** Started Bootstrap Portfolio from scratch.
 
-**Thoughts:** Quite a frustrating session as I couldn't work out why Bootstrap wasn't working in my Codepen - only to realise 60 minutes later that it was due to my settings. I've deleted my old portfolio and am starting from scratch, I think I would like to be able to finish it in the next 1-2 coding sessions. Annoyed because I didn't feel like I learnt a huge amount from this session, although I did spend a lot of time reading documentation. 
+**Thoughts:** Quite a frustrating session as I couldn't work out why Bootstrap wasn't working in my Codepen - only to realise 60 minutes later that it was due to my settings. I've deleted my old portfolio and am starting from scratch, I think I would like to be able to finish it in the next 1-2 coding sessions. Annoyed because I didn't feel like I learnt a huge amount from this session, although I did spend a lot of time reading documentation.
 
 **Link to work:** [Bootstrap Portfolio](https://codepen.io/Pagey/pen/GmwQeO)
 
 ### Day 5: 28th August 2017
 
-**Today's Progress:** Learnt some differences between the versions of Bootstrap. 
+**Today's Progress:** Learnt some differences between the versions of Bootstrap.
 
-**Thoughts:** I really struggled try to get Bootstrap 3.x and Bootstrap 4.0 working for my Portfolio site. Some things would work on BootStrap 3.x but not BootStrap 4.0 and vice versa. I ended up deleting my portfolio so I can start all over again as I was getting frustrated. 
+**Thoughts:** I really struggled try to get Bootstrap 3.x and Bootstrap 4.0 working for my Portfolio site. Some things would work on BootStrap 3.x but not BootStrap 4.0 and vice versa. I ended up deleting my portfolio so I can start all over again as I was getting frustrated.
 
-On the bright side - I did manage to get my Tribute page working locally and then uploaded to Github. 
+On the bright side - I did manage to get my Tribute page working locally and then uploaded to Github.
 
 **Link to work:** [Tribute Page Repo](https://github.com/D-Pagey/FCC-Tribute-Page)
 
  ### Day 6: 29th August 2017
 
-**Today's Progress:** Made a solid start to the portfolio. 
+**Today's Progress:** Made a solid start to the portfolio.
 
-**Thoughts:** Started portfolio from scratch and decided to get the easier parts done first rather than getting frustrated with the navbar. It was a really useful session and really productive, I feel really happy with what I have so far and good foundation to build on. Now when I get frustrated I have the motivation to see it through as I already have done a chunk of work. 
+**Thoughts:** Started portfolio from scratch and decided to get the easier parts done first rather than getting frustrated with the navbar. It was a really useful session and really productive, I feel really happy with what I have so far and good foundation to build on. Now when I get frustrated I have the motivation to see it through as I already have done a chunk of work.
 
 **Link to work:** [FCC Portfolio Page](https://codepen.io/Pagey/pen/xLyeNz)
 
  ### Day 7: 30th August 2017
 
-**Today's Progress:** Portfolio 80% completed 
+**Today's Progress:** Portfolio 80% completed
 
-**Thoughts:** Another good pre-work session, I managed to fix some issues I had just by thinking of solutions in CSS and not needing to look anything up. I feel more confident about coding and am getting to grips with everything. However, this is likely to go away once I tackle building a navbar. I just need to finish off the social media buttons and add a navbar (hardest part) and then I'll be done with my 2nd project! 
+**Thoughts:** Another good pre-work session, I managed to fix some issues I had just by thinking of solutions in CSS and not needing to look anything up. I feel more confident about coding and am getting to grips with everything. However, this is likely to go away once I tackle building a navbar. I just need to finish off the social media buttons and add a navbar (hardest part) and then I'll be done with my 2nd project!
 
 **Link to work:** [FCC Portfolio Page](https://codepen.io/Pagey/pen/xLyeNz)
 
  ### Day 8: 31st August 2017
 
-**Today's Progress:** Finished off FCC Portfolio. 
+**Today's Progress:** Finished off FCC Portfolio.
 
 **Thoughts:** I finished my FCC Portfolio so that it is in a state that I would be fine with someone seeing it. I could have made it a lot cooler and flashier but I wanted to move on to more difficult projects and I think I have fulfilled the brief to a good standard. Since I plan to create my own portfolio from scratch as well then I'd rather work on that than perfect a portfolio I'm not really planning on using again.  
 
@@ -80,7 +80,7 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Today's Progress:** Learning about APIs, JSON and AJAX
 
-**Thoughts:** After an extended coding break due to girl issues, I came back to it with a fresh challenge of using APIs and AJAX to build a random quote page. I struggled with applying the lessons on FCC so decided to visit Udacity and started studying a course on it. I've built the foundation of the page and now just need to pull the random quotes through. 
+**Thoughts:** After an extended coding break due to girl issues, I came back to it with a fresh challenge of using APIs and AJAX to build a random quote page. I struggled with applying the lessons on FCC so decided to visit Udacity and started studying a course on it. I've built the foundation of the page and now just need to pull the random quotes through.
 
 **Link to work:** [FCC Random Quote Page](https://codepen.io/Pagey/pen/eEXRZy)
 
@@ -88,7 +88,7 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Today's Progress:** Learning about Arrays, AJAX and CSS
 
-**Thoughts:** Since I didn't start the session until around 2am, I decided to spend the hour of coding on training videos rather than trying to struggle through AJAX Requests. To be honest, given some personal life stuff, I'm just glad I sat down to focus on coding for an hour. However, I'll do get back to getting my hands dirty in proper coding tomorrow. 
+**Thoughts:** Since I didn't start the session until around 2am, I decided to spend the hour of coding on training videos rather than trying to struggle through AJAX Requests. To be honest, given some personal life stuff, I'm just glad I sat down to focus on coding for an hour. However, I'll do get back to getting my hands dirty in proper coding tomorrow.
 
 **Link to work:** N/A
 
@@ -96,7 +96,7 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Today's Progress:** Sorted API function
 
-**Thoughts:** Finished working on the API function, just working on the Twitter button and some styling and I'll have finished my first intermediate project. I was getting frustrated with not knowing things 100% but I learnt to struggle through it and try to understand things as I go. 
+**Thoughts:** Finished working on the API function, just working on the Twitter button and some styling and I'll have finished my first intermediate project. I was getting frustrated with not knowing things 100% but I learnt to struggle through it and try to understand things as I go.
 
 **Link to work:** [FCC Random Quote Page](https://codepen.io/Pagey/pen/eEXRZy)
 
@@ -120,23 +120,23 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Today's Progress:** Finished an Intermed Algorithmic Script
 
-**Thoughts:** Not the most productive session, watched an Egghead video and a YT video on Pull Requests. After that I started on the intermediate algorithmic scripts on FCC. I had to look up the first one however I have almost wrapped my head around the second one. I'm not going to look up the answer and make sure I work it out myself. I like that I have the option to work on Git/Github tasks, FCC Projects or FCC Algorithms depending on my mood! 
+**Thoughts:** Not the most productive session, watched an Egghead video and a YT video on Pull Requests. After that I started on the intermediate algorithmic scripts on FCC. I had to look up the first one however I have almost wrapped my head around the second one. I'm not going to look up the answer and make sure I work it out myself. I like that I have the option to work on Git/Github tasks, FCC Projects or FCC Algorithms depending on my mood!
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
 
 ### Day 15: 17th September 2017
 
-**Today's Progress:** Completed more FCC Intermediate Algorithms 
+**Today's Progress:** Completed more FCC Intermediate Algorithms
 
-**Thoughts:** Managed to hack my way through an intermediate challenge without looking anything up. However the next challenge I really struggled with and had to look up the solution, which always makes me feel like I'm cheating. Overall I'm half wrapping my head around these challenges but I guess slowly but surely I'm learning. I think that in the future I will go back over all the algorithm challenges and redo them until I can complete them off the top of my head. 
+**Thoughts:** Managed to hack my way through an intermediate challenge without looking anything up. However the next challenge I really struggled with and had to look up the solution, which always makes me feel like I'm cheating. Overall I'm half wrapping my head around these challenges but I guess slowly but surely I'm learning. I think that in the future I will go back over all the algorithm challenges and redo them until I can complete them off the top of my head.
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
 
 ### Day 16: 18th September 2017
 
-**Today's Progress:** Published FCC Portfolio to own domain 
+**Today's Progress:** Published FCC Portfolio to own domain
 
-**Thoughts:** Pretty happy with today's session as I managed to push my website via Git with no problems. My own domain works now with my FCC Portfolio and I have even more inspiration to update and perfect it. Even though I know this isn't what learning is about - I was quite happy that I didn't have any huge stumbling blocks today. 
+**Thoughts:** Pretty happy with today's session as I managed to push my website via Git with no problems. My own domain works now with my FCC Portfolio and I have even more inspiration to update and perfect it. Even though I know this isn't what learning is about - I was quite happy that I didn't have any huge stumbling blocks today.
 
 **Link to work:** [Personal Website](http://www.danpage.co.uk)
 
@@ -144,7 +144,7 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Today's Progress:** Started FCC Local Weather App
 
-**Thoughts:** Made a very basic design for the app and then learnt about getElementById and how to manipulate the HTML with JavaScript. I feel like this project is going to be quite challenging but I made some progress with it and learnt more JavaScript. 
+**Thoughts:** Made a very basic design for the app and then learnt about getElementById and how to manipulate the HTML with JavaScript. I feel like this project is going to be quite challenging but I made some progress with it and learnt more JavaScript.
 
 **Link to work:** [Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
 
@@ -152,42 +152,42 @@ On the bright side - I did manage to get my Tribute page working locally and the
 
 **Today's Progress:** Made Local Weather App work locally and pushed to GitHub
 
-**Thoughts:** Not the most productive pre-work coding session. Watched a video on Branches and Pull Requests then made my Local Weather App work locally. Ran into issues with linking the CSS and then getting the CSS colors to work without "!important" - which I didn't actually achieve. Finally pushed that local repo to GitHub just to track progress on my profile but overall don't feel like I learnt or did that much this morning. 
+**Thoughts:** Not the most productive pre-work coding session. Watched a video on Branches and Pull Requests then made my Local Weather App work locally. Ran into issues with linking the CSS and then getting the CSS colors to work without "!important" - which I didn't actually achieve. Finally pushed that local repo to GitHub just to track progress on my profile but overall don't feel like I learnt or did that much this morning.
 
 **Link to work:** [Github Profile](https://github.com/D-Pagey)
 
 ### Day 19: 25th September 2017
 
-**Today's Progress:** Create a button to gather latitude/longitude of user. 
+**Today's Progress:** Create a button to gather latitude/longitude of user.
 
-**Thoughts:** Probably my worst coding session to date. I felt really tired after a long day at work and not in the right mindset to push myself out of comfort zone and learn. I tried an FCC intermediate algorithm and didn't get far off the start, then had to cheat and find the answer and still didn't understand it. 
-I then moved on to working on my Local Weather App project and only managed to add a button that pulls the co-ordinates, which isn't what I wanted. 
-After a while I got frustrated and resorted to watching coding related YT videos. Although I did decide to push my pathetic coding session to Github for the sake of creating the habit of pushing all my code. 
+**Thoughts:** Probably my worst coding session to date. I felt really tired after a long day at work and not in the right mindset to push myself out of comfort zone and learn. I tried an FCC intermediate algorithm and didn't get far off the start, then had to cheat and find the answer and still didn't understand it.
+I then moved on to working on my Local Weather App project and only managed to add a button that pulls the co-ordinates, which isn't what I wanted.
+After a while I got frustrated and resorted to watching coding related YT videos. Although I did decide to push my pathetic coding session to Github for the sake of creating the habit of pushing all my code.
 
-**Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather) 
+**Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather)
 
 ### Day 20: 27th September 2017
 
-**Today's Progress:** Researched and worked out what I need to do 
+**Today's Progress:** Researched and worked out what I need to do
 
-**Thoughts:** I feel better about this session than the last one, despite not really making much headway or pushing anything to Github. I researched a lot of other peoples projects and worked out what I need to do in order to pull users' location. 
-I think I massively udnerestimate how long it takes to learn and complete a project and therefore get frustrated when I can't do things straight away. 
+**Thoughts:** I feel better about this session than the last one, despite not really making much headway or pushing anything to Github. I researched a lot of other peoples projects and worked out what I need to do in order to pull users' location.
+I think I massively udnerestimate how long it takes to learn and complete a project and therefore get frustrated when I can't do things straight away.
 
-**Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM) 
+**Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
 
 ### Day 21: 30th September 2017
 
 **Today's Progress:**  Finished 2x Intermediate Algorithim Challenges
 
-**Thoughts:** I watched a few YT videos on Regular Expressions and gained a better understanding. In my coding hour, I managed to complete 2 of the intermediate algorithmic challenges. I don't think I give myself enough credit for how much I do know at this point as I picked up the areas I had to look up quite quickly. Anyway, 2 steps closer to achievement the Front End Certification from FCC. 
+**Thoughts:** I watched a few YT videos on Regular Expressions and gained a better understanding. In my coding hour, I managed to complete 2 of the intermediate algorithmic challenges. I don't think I give myself enough credit for how much I do know at this point as I picked up the areas I had to look up quite quickly. Anyway, 2 steps closer to achievement the Front End Certification from FCC.
 
-**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey) 
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/d-pagey)
 
 ### Day 22: 1st October 2017
 
 **Today's Progress:** Learnt Regex, Git and API calls.
 
-**Thoughts:** Quite a productive day having spent over 3 hours either coding or learning about coding concepts. Completed a regular expression tutorial, finished watching a course on Git commands and wrapped my head around API calls. I feel confident that I know what I need to do to functionally do the Local Weather App, now I just need to sit down and do it. With hindsight, I should have spent more time today actually coding but I do think a lot of what I watched has sunk in. 
+**Thoughts:** Quite a productive day having spent over 3 hours either coding or learning about coding concepts. Completed a regular expression tutorial, finished watching a course on Git commands and wrapped my head around API calls. I feel confident that I know what I need to do to functionally do the Local Weather App, now I just need to sit down and do it. With hindsight, I should have spent more time today actually coding but I do think a lot of what I watched has sunk in.
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
 
@@ -195,7 +195,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Key breakthroughs in Local Weather App
 
-**Thoughts:** This has by far been my best coding session yet! I finally understood some really basic concepts that were about 80% there before. There were a few problems I managed to solve like: invoking a function, understanding a callback function, and bugfixing using the console. I made big headway with my Local Weather App and I feel like things are finally starting to click. I'm so happy with how this session - plenty of working through problems with trial and error to actually understand how the code works. 
+**Thoughts:** This has by far been my best coding session yet! I finally understood some really basic concepts that were about 80% there before. There were a few problems I managed to solve like: invoking a function, understanding a callback function, and bugfixing using the console. I made big headway with my Local Weather App and I feel like things are finally starting to click. I'm so happy with how this session - plenty of working through problems with trial and error to actually understand how the code works.
 
 **Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/commit/e41d303b926a81eb38bfa3713561e5dca4656d26)
 
@@ -203,7 +203,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** More accurate weather data pulled + displayed
 
-**Thoughts:** Successfully pulled the JSON data of the users' current location from the Open Weather API. I feel like I've done the hardest technical part of the project and now just need to work on 2 more simple aspects and then make it all look nice with HTML and CSS. I like the idea that this app could be the first Github project that has more JavaScript than HTML. Still quite a bit to go but enjoying the learning progress. 
+**Thoughts:** Successfully pulled the JSON data of the users' current location from the Open Weather API. I feel like I've done the hardest technical part of the project and now just need to work on 2 more simple aspects and then make it all look nice with HTML and CSS. I like the idea that this app could be the first Github project that has more JavaScript than HTML. Still quite a bit to go but enjoying the learning progress.
 
 **Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/)
 
@@ -211,7 +211,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Weather dependent body class + relayout
 
-**Thoughts:** Big update on the project thanks to a pair programming session I had with the Front End Lead at work. Managed to set up the body class to be dependent on the weather data, so the background color changes on the weather. Now need to transfer this to an image and I'll have done another user story. I'm making progress and just need to up the consistency of my coding, today was a bit of a write off as was hungover. 
+**Thoughts:** Big update on the project thanks to a pair programming session I had with the Front End Lead at work. Managed to set up the body class to be dependent on the weather data, so the background color changes on the weather. Now need to transfer this to an image and I'll have done another user story. I'm making progress and just need to up the consistency of my coding, today was a bit of a write off as was hungover.
 
 **Link to work:** [Local Weather Repo](https://github.com/D-Pagey/FCC-Local-Weather/)
 
@@ -219,7 +219,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Added image and button, started functionality.
 
-**Thoughts:** Quite a productive session with making headway on 2 remaining user stories. The most difficult parts still to come but things are moving forward. I also think the process of trying new things or the learning curve is actually getting slightly shorter. I feel rather optimistic about coding in general, however I am looking forward to moving on from this project. Half of me wants it to be perfect and the other half wants to work on something new. 
+**Thoughts:** Quite a productive session with making headway on 2 remaining user stories. The most difficult parts still to come but things are moving forward. I also think the process of trying new things or the learning curve is actually getting slightly shorter. I feel rather optimistic about coding in general, however I am looking forward to moving on from this project. Half of me wants it to be perfect and the other half wants to work on something new.
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
 
@@ -227,7 +227,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Used Fetch API
 
-**Thoughts:** It's been a while since I've done a proper coding session, although I have been doing smaller and mini ones in between. I've been quite anxious to put in a big coding session as I feel like I was in a bit of a mess with this Local Weather App project. However, I have organised the code better and replaced the XML HTTP Request with the Fetch API. I am slowly making progress and just need to keep coding each day and pushing my code to Github. 
+**Thoughts:** It's been a while since I've done a proper coding session, although I have been doing smaller and mini ones in between. I've been quite anxious to put in a big coding session as I feel like I was in a bit of a mess with this Local Weather App project. However, I have organised the code better and replaced the XML HTTP Request with the Fetch API. I am slowly making progress and just need to keep coding each day and pushing my code to Github.
 
 **Link to work:** [CodePen: Local Weather App](https://codepen.io/Pagey/pen/GMgrwM)
 
@@ -249,9 +249,9 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 ### Day 30: 23rd October 2017
 
-**Today's Progress:** Updated GitHub page. 
+**Today's Progress:** Updated GitHub page.
 
-**Thoughts:** I spent well over an hour this evening simply updating all the repos on my GitHub page. This involved changing the repo names and therefore the remotes in Git. More importantly, I reviewed all my old code and it was amazing to see how much I had learnt in the short time I've been doing this. I've identified one of the projects I'd like to almost redo, hopefully it will be simply replacing the JQuery with native JavaScript. 
+**Thoughts:** I spent well over an hour this evening simply updating all the repos on my GitHub page. This involved changing the repo names and therefore the remotes in Git. More importantly, I reviewed all my old code and it was amazing to see how much I had learnt in the short time I've been doing this. I've identified one of the projects I'd like to almost redo, hopefully it will be simply replacing the JQuery with native JavaScript.
 
 **Link to work:** [GitHub page](https://github.com/D-Pagey)
 
@@ -259,7 +259,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Updated old project with better code.  
 
-**Thoughts:** Revisited my Random Quote project as 1) it used JQuery and 2) I didn't understand my own code. I've managed to use the fetch API again but the project is no longer fully functional. I have a better comprehension of working with the DOM and APIs so it shouldn't take long to get the project working again, and for me to move on to a new project. 
+**Thoughts:** Revisited my Random Quote project as 1) it used JQuery and 2) I didn't understand my own code. I've managed to use the fetch API again but the project is no longer fully functional. I have a better comprehension of working with the DOM and APIs so it shouldn't take long to get the project working again, and for me to move on to a new project.
 
 **Link to work:** [CodePen - Random Quoter](https://codepen.io/Pagey/pen/eEXRZy)
 
@@ -267,15 +267,15 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Fixed a key API issue.
 
-**Thoughts:** Changed the API used so that each click does in fact bring a random quote. It feels good to have code on a project that I fully understand. A part of me wants to work on new projects, although I quickly realise the importance of making sure old code is updated and improved. One more user story and my old project will be up to a good standard. 
+**Thoughts:** Changed the API used so that each click does in fact bring a random quote. It feels good to have code on a project that I fully understand. A part of me wants to work on new projects, although I quickly realise the importance of making sure old code is updated and improved. One more user story and my old project will be up to a good standard.
 
 **Link to work:** [CodePen - Random Quoter](https://codepen.io/Pagey/pen/eEXRZy)
 
 ### Day 33: 28th October 2017
 
-**Today's Progress:** Finished recoding an old project. 
+**Today's Progress:** Finished recoding an old project.
 
-**Thoughts:** I'm very happy to have finished the Random Quote Machine for the 2nd time. The first time round it felt good to hack together something that worked. However, this time round I feel even better as my project works functionally *and* I understand all of the code in it. I feel like I've taken a big step in my coding over the last 2 weeks and I want to keep up the momentum. 
+**Thoughts:** I'm very happy to have finished the Random Quote Machine for the 2nd time. The first time round it felt good to hack together something that worked. However, this time round I feel even better as my project works functionally *and* I understand all of the code in it. I feel like I've taken a big step in my coding over the last 2 weeks and I want to keep up the momentum.
 
 **Link to work:** [GitHub - Random Quote Machine](https://github.com/D-Pagey/Quoter)
 
@@ -283,7 +283,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Started Wikipedia Viewer
 
-**Thoughts:** I updated all my Github READMEs and then quickly built the foundation for my next project. I was actually surprised at: 1) how quick I could whip up a Bootstrap layout and 2) I was able to write a JavaScript function off the top of my head. This project seems deceptively easy so it will be interesting to see how I get on with it. 
+**Thoughts:** I updated all my Github READMEs and then quickly built the foundation for my next project. I was actually surprised at: 1) how quick I could whip up a Bootstrap layout and 2) I was able to write a JavaScript function off the top of my head. This project seems deceptively easy so it will be interesting to see how I get on with it.
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
 
@@ -291,7 +291,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Algorithm challenges + Wikipedia API Research
 
-**Thoughts:** Today I had a holiday from work and spent roughly 3.5 hours focused purely on either the algorithmic challenges or my new Wikipedia project. I worked through a difficult algorithmic challenge by myself without looking anything up, and then half completed another one before having to look up the solution. The rest of my time was spent trying to learn about the Wikipedia API call and to be honest, it's gone slower than I would have liked.  I've not made much progress on my Wikipedia project's code, but I think I have a slightly better understanding of what I need to do. 
+**Thoughts:** Today I had a holiday from work and spent roughly 3.5 hours focused purely on either the algorithmic challenges or my new Wikipedia project. I worked through a difficult algorithmic challenge by myself without looking anything up, and then half completed another one before having to look up the solution. The rest of my time was spent trying to learn about the Wikipedia API call and to be honest, it's gone slower than I would have liked.  I've not made much progress on my Wikipedia project's code, but I think I have a slightly better understanding of what I need to do.
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
 
@@ -299,7 +299,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** API call on Wikipedia project + slideshow on personal website
 
-**Thoughts:** I had a pretty good coding day today making progress on both my personal website and the Wikipedia project. For my personal website I created a click-through slideshow of pictures which I made for the sake of seeing if I could code it. With the Wikipedia project, I still don't fully understand why some things work and other things don't but at the every least I managed to pull the data I need from Wikipedia - which is a positive sign. 
+**Thoughts:** I had a pretty good coding day today making progress on both my personal website and the Wikipedia project. For my personal website I created a click-through slideshow of pictures which I made for the sake of seeing if I could code it. With the Wikipedia project, I still don't fully understand why some things work and other things don't but at the every least I managed to pull the data I need from Wikipedia - which is a positive sign.
 
 **Link to work:** [Personal Website](http://www.danpage.co.uk)
 
@@ -315,15 +315,15 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Created layout to display search results
 
-**Thoughts:** A colleague at work suggested I build how I want the layout to look and then work backwards. This made so much more sense to me than what I was doing. I built the foundation for how I want it to look and managed to input data from the API call into the layout. 
+**Thoughts:** A colleague at work suggested I build how I want the layout to look and then work backwards. This made so much more sense to me than what I was doing. I built the foundation for how I want it to look and managed to input data from the API call into the layout.
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
 
 ### Day 39: 8th November 2017
 
-**Today's Progress:** Title, snippet + link displays in HTML from search results. 
+**Today's Progress:** Title, snippet + link displays in HTML from search results.
 
-**Thoughts:** Hardcoded all the HTML elements so I had something to push the API call data into. I feel like I'm over the hill with my understanding of this project although there is still quite a lot to do. There are quite a few aspects of my code that I know work but don't fully understand yet e.g. the API call to Wikipedia. I don't really like the feeling of not knowing what my own code does. 
+**Thoughts:** Hardcoded all the HTML elements so I had something to push the API call data into. I feel like I'm over the hill with my understanding of this project although there is still quite a lot to do. There are quite a few aspects of my code that I know work but don't fully understand yet e.g. the API call to Wikipedia. I don't really like the feeling of not knowing what my own code does.
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
 
@@ -331,7 +331,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Almost done fuctionally.
 
-**Thoughts:** Bit of a frustrating hour as didn't make enough progress to actually push some code. Basically the project works but I can't link the users' input and the Fetch API. I feel like it might just be a case of misunderstanding scope and closures and I think I'm so close to solving this problem. Once I get this right then functionally the project will be complete. I'm going to put in another hour to try and get through it. 
+**Thoughts:** Bit of a frustrating hour as didn't make enough progress to actually push some code. Basically the project works but I can't link the users' input and the Fetch API. I feel like it might just be a case of misunderstanding scope and closures and I think I'm so close to solving this problem. Once I get this right then functionally the project will be complete. I'm going to put in another hour to try and get through it.
 
 **Link to work:** [CodePen - Wikipedia Viewer](https://codepen.io/Pagey/pen/wrZRqR)
 
@@ -345,8 +345,16 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 ### Day 42: 18th November 2017
 
-**Today's Progress:** Finish Wikipedia. Now recreating ClearScore homepage. 
+**Today's Progress:** Finish Wikipedia. Now recreating ClearScore homepage.
 
-**Thoughts:** It's been a week since I've put in a solid hour but I have been coding and pushing to GitHub every day. In that time I finished off my Wikipedia project (although I do plan to come back and improve the styling and refactor the JS) and now I have moved on to recreating the ClearScore homepage. This is a project that my colleague and mentor set me and focuses on improving my HTML and CSS. I've got off to an ok start but still a lot to do to make it look close to the real thing. 
+**Thoughts:** It's been a week since I've put in a solid hour but I have been coding and pushing to GitHub every day. In that time I finished off my Wikipedia project (although I do plan to come back and improve the styling and refactor the JS) and now I have moved on to recreating the ClearScore homepage. This is a project that my colleague and mentor set me and focuses on improving my HTML and CSS. I've got off to an ok start but still a lot to do to make it look close to the real thing.
 
 **Link to work:** [GitHub - ClearScore homepage](https://github.com/D-Pagey/ClearScore/commit/c98d8c1eec11987fd7329a058aa675d28fc3419a)
+
+### Day 43: 19th November 2017
+
+**Today's Progress:** Tribute project: Bootstrap to FlexBox.
+
+**Thoughts:** Today I have been focusing on learning FlexBox and Git better. I have done various tutorials on each and have started to remove all the Bootstrap from my Tribute Page project and replace it with FlexBox. So far it has been a good learning experience for me and I already feel like my CSS skills are coming along nicely. It also feels good to have built the web page without relying on any framework or library, and this time round I can have a go at making it mobile-responsive. 
+
+**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute/commit/ec5bd8a1d441aed2c9d01e8afc0858c9e3d653be)
