@@ -358,3 +358,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Today I have been focusing on learning FlexBox and Git better. I have done various tutorials on each and have started to remove all the Bootstrap from my Tribute Page project and replace it with FlexBox. So far it has been a good learning experience for me and I already feel like my CSS skills are coming along nicely. It also feels good to have built the web page without relying on any framework or library, and this time round I can have a go at making it mobile-responsive. 
 
 **Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute/commit/ec5bd8a1d441aed2c9d01e8afc0858c9e3d653be)
+
+### Day 44: 20th November 2017
+
+**Today's Progress:** Tribute project: Continuing to restyle this project with Bootstrap.
+
+**Thoughts:** Not much to report other than just continued working on restyling this project. I think this has been a good idea to go over all the code again and I'm learning a lot about (and becoming more confident with) core HTML/CSS. 
+
+**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute/commit/ec5bd8a1d441aed2c9d01e8afc0858c9e3d653be)
