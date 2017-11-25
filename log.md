@@ -366,3 +366,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Not much to report other than just continued working on restyling this project. I think this has been a good idea to go over all the code again and I'm learning a lot about (and becoming more confident with) core HTML/CSS. 
 
 **Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute/commit/ec5bd8a1d441aed2c9d01e8afc0858c9e3d653be)
+
+### Day 45: 25th November 2017
+
+**Today's Progress:** Tribute project: Finish off the mobile responsive design. 
+
+**Thoughts:** Finally finished off the CSS styling of the project including making the design mobile responsive. It feels pretty cool to have properly finished a project knowing I wrote all the code without libraries or frameworks. The next step would be to add a popup/modal that shows the brief and user stories for the project. I'll come back to that though as now I just want to make all my projects mobile responsive in my own native CSS. 
+
+**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute/commit/8866284d765d5331c65609588e5cc1026b561b1f)
