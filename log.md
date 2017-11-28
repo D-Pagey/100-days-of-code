@@ -382,3 +382,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Have coded for 3 hours today and almost finished styling the FreeCodeCamp portfolio in native CSS. It's easier refactoring the CSS the 2nd time round but still running into some challenges. An hour or two more and I'll likely have finished this project and I think all my other projects are significantly simpler in terms of design. 
 
 **Link to work:** [GitHub - Portfolio](https://github.com/D-Pagey/Portfolio/commit/bd5eb8c84956e59ad0312ab892481ab677e242d8)
+
+### Day 47: 27th November 2017
+
+**Today's Progress:** Amending Media Queries on Tribute Page.
+
+**Thoughts:** This evening I went back to my 1st project and spent an hour amending the Media Queries on the Tribute Page. I'm obsessing over it being perfect but I'm also aware that someone is going to come along and show me how much better my CSS could be. I don't want to spend any more time on this Tribute Page so hopefully I can focus on refactoring all my other projects. 
+
+**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute)
