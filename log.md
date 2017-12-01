@@ -390,3 +390,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** This evening I went back to my 1st project and spent an hour amending the Media Queries on the Tribute Page. I'm obsessing over it being perfect but I'm also aware that someone is going to come along and show me how much better my CSS could be. I don't want to spend any more time on this Tribute Page so hopefully I can focus on refactoring all my other projects. 
 
 **Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute)
+
+### Day 48: 30th November 2017
+
+**Today's Progress:** Updated CSS on Tribute Page with styling best practices.
+
+**Thoughts:** A FE Dev at work/my mentor taught me some CSS best practices and so I refactored my CSS with these. However the media queries broke so I deleted them as I want to start again on those. Not much more to say on this other than looking forward to finishing these. 
+
+**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute)
