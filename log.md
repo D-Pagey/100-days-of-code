@@ -403,6 +403,6 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Today's Progress:** Refactored 3/5 of FCC projects. 
 
-**Thoughts:** This weekend I have successfully refactored to code on 3 of my 5 total projects for FCC. These 3 projects now don't have any Bootstrap and are all native CSS and JS. I'm glad that my public code is now ever so slightly better but I'm also looking forward to working on something new once I've recoded the last 2. 
+**Thoughts:** This weekend I have successfully refactored the code on 3 of my 5 total projects for FCC. These 3 projects now don't have any Bootstrap and are all native CSS and JS. I'm glad that my public code is now ever so slightly better but I'm also looking forward to working on something new once I've recoded the last 2. 
 
 **Link to work:** [GitHub Page](https://github.com/D-Pagey/)
