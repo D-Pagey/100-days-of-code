@@ -406,3 +406,12 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** This weekend I have successfully refactored the code on 3 of my 5 total projects for FCC. These 3 projects now don't have any Bootstrap and are all native CSS and JS. I'm glad that my public code is now ever so slightly better but I'm also looking forward to working on something new once I've recoded the last 2. 
 
 **Link to work:** [GitHub Page](https://github.com/D-Pagey/)
+
+### Day 50: 4th December 2017
+
+**Today's Progress:** Relaid out the Weather project natively.  
+
+**Thoughts:** This project seems a bit more fiddly as I'm not thrilled with the design but don't have inspiration otherwise. I've sorted the basic layout in native CSS and getting more and more comfortable with Flexbox. Now I've just got to work out how to style a page based off multiple weather scenarios.  
+
+**Link to work:** [GitHub - Local Weather App](https://github.com/D-Pagey/Weather/commit/e7b13cc5f9d7d6171da8894b902904499a7460ed)
+
