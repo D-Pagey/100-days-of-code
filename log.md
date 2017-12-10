@@ -415,3 +415,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Link to work:** [GitHub - Local Weather App](https://github.com/D-Pagey/Weather/commit/e7b13cc5f9d7d6171da8894b902904499a7460ed)
 
+### Day 51: 10th December 2017
+
+**Today's Progress:** All projects now native CSS and mobile responsive.
+
+**Thoughts:** Today I finished off restyling the last of my projects in native CSS and making it mobile responsive. The process of rewriting all that code has definitely improved my CSS which was the goal. Now to move on to new projects and keep working towards the FCC certification. 
+
+**Link to work:** [GitHub Page](https://github.com/D-Pagey/)
+
