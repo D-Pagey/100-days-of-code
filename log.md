@@ -423,3 +423,10 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Link to work:** [GitHub Page](https://github.com/D-Pagey/)
 
+### Day 52: 11th December 2017
+
+**Today's Progress:** Started Twitch TV project.
+
+**Thoughts:** Laid out the foundations for the Twitch TV project. Seems like it could be a straight forward project given the Wikipedia project but too early to say. 
+
+**Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/TwitchTV)
