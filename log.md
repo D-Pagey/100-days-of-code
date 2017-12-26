@@ -430,3 +430,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Laid out the foundations for the Twitch TV project. Seems like it could be a straight forward project given the Wikipedia project but too early to say. 
 
 **Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/TwitchTV)
+
+### Day 53: 26th December 2017
+
+**Today's Progress:** Link to stream + starting mobile responsive design.
+
+**Thoughts:** I've managed to pull the relevant data from Twitch and display it. However, I am stuck because it works perfectly but for  one stream whereas the other streams it doesn't work at all. I don't really know where I'm going wrong so will have to do more research and will play around with it, however I think I'll post on StackOverFlow and the FCC forums to see if that helps. In the meantime, I will redesign the app for mobile. 
+
+**Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/TwitchTV)
