@@ -438,3 +438,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** I've managed to pull the relevant data from Twitch and display it. However, I am stuck because it works perfectly but for  one stream whereas the other streams it doesn't work at all. I don't really know where I'm going wrong so will have to do more research and will play around with it, however I think I'll post on StackOverFlow and the FCC forums to see if that helps. In the meantime, I will redesign the app for mobile. 
 
 **Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/TwitchTV)
+
+### Day 54: 30th December 2017
+
+**Today's Progress:** Finished TwitchTV project.
+
+**Thoughts:** Today I finally finished the Twitch TV project which also means I have completed the FCC Intermediate FE projects. Overall it was relatively straight forward given the previous 3 projects, but I still feel like I learnt a lot in the process of doing it. This is quite exciting for me as I couldn't really see myself getting to the Advanced FE projects but now I'm here, I feel ready for it. 
+
+**Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/TwitchTV)
