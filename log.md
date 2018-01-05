@@ -446,3 +446,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** Today I finally finished the Twitch TV project which also means I have completed the FCC Intermediate FE projects. Overall it was relatively straight forward given the previous 3 projects, but I still feel like I learnt a lot in the process of doing it. This is quite exciting for me as I couldn't really see myself getting to the Advanced FE projects but now I'm here, I feel ready for it. 
 
 **Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/TwitchTV)
+
+### Day 55: 4th January 2018
+
+**Today's Progress:** 2/3 user stories on Calculator project.
+
+**Thoughts:** I've actually done lots of coding in between the last entry, I just haven't had time to log it. I started the calculcator project in an airport and have put in 4-5 hours on it since. I've now completed the core functionality and just fixing some bugs. This was a challenging and fun project and I still learnt a lot, and it has given me confidence to tackle the next Advanced projects. 
+
+**Link to work:** [GitHub - Calculator](https://github.com/D-Pagey/calculator)
