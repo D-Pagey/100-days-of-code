@@ -454,3 +454,12 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 **Thoughts:** I've actually done lots of coding in between the last entry, I just haven't had time to log it. I started the calculcator project in an airport and have put in 4-5 hours on it since. I've now completed the core functionality and just fixing some bugs. This was a challenging and fun project and I still learnt a lot, and it has given me confidence to tackle the next Advanced projects. 
 
 **Link to work:** [GitHub - Calculator](https://github.com/D-Pagey/calculator)
+
+### Day 56: 5th January 2018
+
+**Today's Progress:** Finished Calculator project.
+
+**Thoughts:** Fixed 2 of the bugs and restyled it for mobile. Pretty happy with the project overall but would like to come back to it once my CSS skills have improved. Pretty happy that I managed to do and Advanced FCC project in about a week. It's given me the confidence to do the remaining 3 and earn that certificate! 
+
+**Link to work:** [Codepen - Calculator](https://codepen.io/Pagey/pen/WdXejZ)
+
