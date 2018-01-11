@@ -463,3 +463,11 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Link to work:** [Codepen - Calculator](https://codepen.io/Pagey/pen/WdXejZ)
 
+### Day 57: 10th January 2018
+
+**Today's Progress:** Added modal to Tribute page.
+
+**Thoughts:** I have actually been coding a bit the last few days but not logged it. Anyway, I recently learnt how to create a modal page and so decided to add that to my Tribute project. I also took the chance to update and refactor my CSS to make it mobile responsive. I'm undecided as to whether or not move on to Pomodoro clock or add modals to my old projects as well. 
+
+**Link to work:** [Codepen - Tribute Page](https://codepen.io/Pagey/pen/GmOYdm)
+
