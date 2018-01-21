@@ -477,5 +477,7 @@ I think I massively udnerestimate how long it takes to learn and complete a proj
 
 **Thoughts:** I learnt the basics of SASS this weekend. I implemented my new knowledge to convert my CSS media queries in to SCSS media queries. It looks a bit chaotic but it works, will likely have to refactor this again at some point with best practices. 
 
+This weekend has been tough on coding. It's been a while since I've had to learn something from scratch (SCSS), and lost a bit of confidence. I think I try to do everything too quickly and don't allow myself time to wrap my head around something. However, by coding on my projects, I remembered that I just need to keep hacking my way through slowly but surely. 
+
 **Link to work:** [GitHub - Tribute](https://github.com/D-Pagey/tribute)
 
