@@ -481,3 +481,11 @@ This weekend has been tough on coding. It's been a while since I've had to learn
 
 **Link to work:** [GitHub - Tribute](https://github.com/D-Pagey/tribute)
 
+### Day 59: 3rd February 2018
+
+**Today's Progress:** Added Modal and SCSS to Wikipedia. 
+
+**Thoughts:** Recently I have been learning to use SCSS to write better media queries by refactoring all my old projects. I have also taken this time to add Modals describing the user stories for each project. On one hand it's a bit tedious going over old code again but on the other hand, it's cool getting more and more used to thinking in terms of SCSS. 
+
+**Link to work:** [GitHub - Wikioedia](https://github.com/D-Pagey/wikipedia)
+
