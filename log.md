@@ -489,3 +489,11 @@ This weekend has been tough on coding. It's been a while since I've had to learn
 
 **Link to work:** [GitHub - Wikioedia](https://github.com/D-Pagey/wikipedia)
 
+### Day 60: 4th February 2018
+
+**Today's Progress:** Started on Consensus project. 
+
+**Thoughts:** I decided to start on a personal project today. I intially wanted to do it once I had completed the FCC curriculum, but I had a strong urge to start it now as I think it will take me ages to get it functioning. Essentially it's an app to track interviewers' feedback after an interview, which is a bit of a pain point in my current job. It would be awesome to build something that I could use every day, but even if it doesn't get used then I will learn a lot whilst building it.  
+
+**Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
+
