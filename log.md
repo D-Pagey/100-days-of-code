@@ -497,3 +497,13 @@ This weekend has been tough on coding. It's been a while since I've had to learn
 
 **Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
 
+### Day 61: 5th February 2018
+
+**Today's Progress:** Built form for Consensus project. 
+
+**Thoughts:** I rebuilt the layout as a form with dropdown elements, I also restyled the layout for mobiles. In reading through MDN docs I feel like I have a better understanding for how forms work. 
+
+It feels slightly different working on a project that I'm quite invested in. Working on the FCC Pomodoro is interesting but I likely won't use it and don't have much drive to complete it beyond the user stories (mainly as I have 2 more projects to do straight after). Whereas this is a personal project I could see myself using every day at work and I feel like I'm learning some new parts of the front end. 
+
+**Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
+
