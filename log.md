@@ -507,3 +507,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
 
+### Day 62: 11th February 2018
+
+**Today's Progress:** Added pages to Consensus project and learning about Firebase. 
+
+**Thoughts:** I've built the HTML and CSS for the various pages of my Consensus project. Now I just need to set up the Firebase database to list the interviewers and write the neccessary JavaScript. I'm in the stage of having to watch a lot of videos and read a lot of documentation, but I think I'll be able to build the database today. 
+
+**Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
+
