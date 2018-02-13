@@ -515,3 +515,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
 
+### Day 63: 12th February 2018 
+
+**Today's Progress:** Adding "Delete" functionality to the Interviewers CRUD application. 
+
+**Thoughts:** Pretty happy that I managed to work out how to delete an entry in one hour on a weekday evening. This will be my first CRUD application and it's using an external database which is quite cool. Pretty excited at the future possibilities once I work out how to "Update" on this app. I find it difficult to understand what's going on with Firebase, but once I hack through it, I feel a lot more comfortable.
+
+**Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
+
