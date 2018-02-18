@@ -523,3 +523,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
 
+### Day 64: 17th February 2018 
+
+**Today's Progress:** Restyled Pomodoro Clock. 
+
+**Thoughts:** I decided to come back to my FCC project as I would like to earn the Free Code Camp certification at some point. I started on the functionality and then restyled the whole app. I still don't like the design but at least now the layout is good enough for me to work on the JavaScript side of the project. On the scripting side, my old code is redundant and I have found a better way to make a countdown clock. However, my old code laid the foundations for my understanding of this project. 
+
+**Link to work:** [GitHub - Pomodoro](https://github.com/D-Pagey/pomodoro)
+
