@@ -531,3 +531,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Pomodoro](https://github.com/D-Pagey/pomodoro)
 
+### Day 65: 19th February 2018 
+
+**Today's Progress:** First draft finished Pomodoro project.
+
+**Thoughts:** I finished all the user stories for the Pomodoro project. The app is still quite buggy with a few more things I would like to add. However, I want to focus on new projects and learning objectives, like learning React. On one hand, I'm glad to have "finished" another advanced project, but on the other hand, I'm not super proud of my end result. 
+
+**Link to work:** [CodePen - Pomodoro](https://codepen.io/Pagey/pen/zRWYgw?editors=0100)
+
