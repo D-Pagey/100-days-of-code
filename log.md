@@ -539,3 +539,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [CodePen - Pomodoro](https://codepen.io/Pagey/pen/zRWYgw?editors=0100)
 
+### Day 66: 25th February 2018 
+
+**Today's Progress:** Starting to learn React.
+
+**Thoughts:** I struggled with POST, DELETE and PUT HTTP requests in Fetch for my Consensus project, and concluded that I was going to focus on learning React instead. Today I have been focussing on reading through materials and watching videos. Unfortunately, I am struggling to get to grips with React and knowing where to start with it all. There are loads of things I don't fully understand from Webpack, NPM, ES6, Classes, Export, Import, where to right my code etc.  
+
+**Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
+
