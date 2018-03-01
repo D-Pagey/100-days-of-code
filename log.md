@@ -547,3 +547,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Consensus](https://github.com/D-Pagey/consensus)
 
+### Day 67: 28th February 2018 
+
+**Today's Progress:** Working through React tutorials.
+
+**Thoughts:** I found some great learning resources for React: FreeCodeCamp Beta, Hacking with React and the React tic-tac-toe tutorial. I've been working through these and found that the more React I write, the more I feel like I understand it. Overall, I'm feeling more optimistic about my chances of building a project in React.  
+
+**Link to work:** [GitHub - Hacking with React](https://github.com/D-Pagey/hwr)
+
