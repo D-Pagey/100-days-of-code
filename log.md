@@ -563,3 +563,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** N/A
 
+### Day 69: 6th March 2018 
+
+**Today's Progress:** FCC Beta React tutorial.
+
+**Thoughts:** Surprised at how extensive this React tutorial on FCC is but feel like I am learning a lot and all the things I was confused about is slowly clicking into place. The exercises are really well made! Not sure whether to continue or deviate into building a stateless React app. 
+
+**Link to work:** N/A
+
