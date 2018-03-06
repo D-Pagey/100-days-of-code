@@ -555,3 +555,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Hacking with React](https://github.com/D-Pagey/hwr)
 
+### Day 68: 5th March 2018 
+
+**Today's Progress:** Still working through React tutorials.
+
+**Thoughts:** Did some exercises to become more comfortable with ES6. Still working through freeCodeCamp Beta React exercises as well as Hacking with React. I need to start building apps in React soon to put the theory into practice. It is starting to make sense in my head so I am excited to actually start building my own projects in React. 
+
+**Link to work:** N/A
+
