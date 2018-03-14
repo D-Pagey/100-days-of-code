@@ -571,3 +571,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** N/A
 
+### Day 70: 13th March 2018 
+
+**Today's Progress:** Pushed my 1st React App.
+
+**Thoughts:** Today I coded the majority of my Tribute app in React and then worked out how to push it to GitHub. I think I messed up the commit history pretty badly but the app is on GitHub. I still feel unsure as to what I'm doing but happy that hacking my way through it is working. It has given me the confidence to Reactify my other apps. 
+
+**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute)
+
