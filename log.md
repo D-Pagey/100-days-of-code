@@ -579,3 +579,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute)
 
+### Day 71: 14th March 2018 
+
+**Today's Progress:** Restructured React App, fixing lint errors. 
+
+**Thoughts:** I had a FED at work look at my Tribute React app and give tips on how to structure it. I took this on board and restructured the app, fixed errors and linting errors. Just have to restyle and add the modal then ready to move on to the next project. 
+
+**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute)
+
