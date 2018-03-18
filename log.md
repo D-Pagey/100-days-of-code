@@ -587,3 +587,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Tribute)
 
+### Day 72: 17th March 2018 
+
+**Today's Progress:** Finished Tribute. Reactifying Portfolio. 
+
+**Thoughts:** Finished off the styling and Modal for the React version of the Tribute page. Moved on to Reactifying the Portfolio page, still struggling through but it's quicker this time round than on the Tribute project. 
+
+**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Portfolio)
+
