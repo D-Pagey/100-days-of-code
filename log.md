@@ -593,5 +593,13 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Thoughts:** Finished off the styling and Modal for the React version of the Tribute page. Moved on to Reactifying the Portfolio page, still struggling through but it's quicker this time round than on the Tribute project. 
 
-**Link to work:** [GitHub - Tribute Page](https://github.com/D-Pagey/Portfolio)
+**Link to work:** [GitHub - Portfolio Page](https://github.com/D-Pagey/Portfolio)
+
+### Day 73: 18th March 2018 
+
+**Today's Progress:** Working on Reactifying Portfolio project
+
+**Thoughts:** Continuing to convert the vanilla JS Portfolio project to a React one. This hour has been a tad tedious as it's borderline copy and paste. Once this project is done though, the future projects will be working with APIs in React. 
+
+**Link to work:** [GitHub - Portfolio Page](https://github.com/D-Pagey/Portfolio)
 
