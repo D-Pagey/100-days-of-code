@@ -609,5 +609,13 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Thoughts:** Happy with my progress in starting to code the TicTacToe project as well as carrying on with Reactifying the Portfolio project. I just need to make it mobile responsive and I'll be done with this project. 
 
-**Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
+**Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)#
+
+### Day 75: 20th March 2018 
+
+**Today's Progress:** Finished with React Portfolio.
+
+**Thoughts:** Finished off the React Portfolio by manually writing media queries. Definitely has to be a quicker way to do that. Should be able to get another hour of coding into this evening, in which case I will start on the next project - Reactifying Quote Machine.  
+
+**Link to work:** [GitHub - Portfolio](https://github.com/D-Pagey/portfolio)
 
