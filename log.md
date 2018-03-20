@@ -603,3 +603,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Portfolio Page](https://github.com/D-Pagey/Portfolio)
 
+### Day 74: 19th March 2018 
+
+**Today's Progress:** Starting TicTacToe and continuing with React Portfolio.
+
+**Thoughts:** Happy with my progress in starting to code the TicTacToe project as well as carrying on with Reactifying the Portfolio project. I just need to make it mobile responsive and I'll be done with this project. 
+
+**Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
+
