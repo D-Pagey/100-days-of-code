@@ -619,3 +619,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Portfolio](https://github.com/D-Pagey/portfolio)
 
+### Day 76: 24th March 2018 
+
+**Today's Progress:** Made Quoter app functionally work.
+
+**Thoughts:** Only had an hour today and managed to work out how to pass a function from Parent to Child components. Now my Quoter app can fetch once a button is clicked as well as tweet the resulting data. Just need to tidy a few things up and my 3rd React project will be completed. 
+
+**Link to work:** [GitHub - Quoter](https://github.com/D-Pagey/quoter)
+
