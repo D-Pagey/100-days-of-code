@@ -627,3 +627,12 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Quoter](https://github.com/D-Pagey/quoter)
 
+### Day 77: 25th March 2018 
+
+**Today's Progress:** Finished Quoter App. Starting Reactifying Consensus App.
+
+**Thoughts:** This evening I finished off the Quoter app, which is my first fully functional React app that fetches an API. I then decided to revisit my Consensus app and lay out the initial home page. I started learning about how to build an Single Page Application and realised I'll need to learn how to use React-Router. 
+
+**Link to work:** [GitHub - Quoter](https://github.com/D-Pagey/quoter)
+
+
