@@ -635,4 +635,12 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Quoter](https://github.com/D-Pagey/quoter)
 
+### Day 78: 29th March 2018 
+
+**Today's Progress:** Stateless functional components.
+
+**Thoughts:** Had some great feedback from a colleague on my React project. Implemented his advice and finally understood when to use a stateless functional component in React. Updating all previous projects with SFCs now!  
+
+**Link to work:** [GitHub - Quoter](https://github.com/D-Pagey/quoter)
+
 
