@@ -643,4 +643,10 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Quoter](https://github.com/D-Pagey/quoter)
 
+### Day 79: 31st March 2018 
 
+**Today's Progress:** Almost finished Weather app. 
+
+**Thoughts:** Wrote all the functionality for a weather with conditional styling. It was interesting to work out how to use state in React versus how I initially did it in native JS. I have hit a wall on one bug with geolocation being quite flakey, which didn't happen before. I feel like I've tried everything and not made any progress, so will have to ask a FED at work :(
+
+**Link to work:** [GitHub - Weather](https://github.com/D-Pagey/weather)
