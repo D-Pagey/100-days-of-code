@@ -650,3 +650,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** Wrote all the functionality for a weather with conditional styling. It was interesting to work out how to use state in React versus how I initially did it in native JS. I have hit a wall on one bug with geolocation being quite flakey, which didn't happen before. I feel like I've tried everything and not made any progress, so will have to ask a FED at work :(
 
 **Link to work:** [GitHub - Weather](https://github.com/D-Pagey/weather)
+
+### Day 80: 2nd April 2018 
+
+**Today's Progress:** Finished Weather app, starting Reactifying Wikipedia. 
+
+**Thoughts:** A colleague showed me where I went wrong with my weather app. It highlighted a fundamental lack in understanding of how Promises work. Thankfully he fixed the bug for me and so the Weather app is fully functional in React. I have since redone the ClearScore homepage for my large home monitor but still need to make it mobile responsive. I have also started Reactifying the Wikipedia project which seems to be going smoothly so far. 
+
+**Link to work:** [GitHub - Wikipedia](https://github.com/D-Pagey/wikipedia)
