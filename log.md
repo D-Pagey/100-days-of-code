@@ -658,3 +658,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** A colleague showed me where I went wrong with my weather app. It highlighted a fundamental lack in understanding of how Promises work. Thankfully he fixed the bug for me and so the Weather app is fully functional in React. I have since redone the ClearScore homepage for my large home monitor but still need to make it mobile responsive. I have also started Reactifying the Wikipedia project which seems to be going smoothly so far. 
 
 **Link to work:** [GitHub - Wikipedia](https://github.com/D-Pagey/wikipedia)
+
+### Day 81: 3rd April 2018 
+
+**Today's Progress:** Styled Articles component, trying to work out how to display an array of objects. 
+
+**Thoughts:** Just the 1 hour session this evening. Managed to style an example Article div, now I just need to work out how to display the data I've returned from the API. Once this is done, the project is basically complete. 
+
+**Link to work:** [GitHub - Wikipedia](https://github.com/D-Pagey/wikipedia)
