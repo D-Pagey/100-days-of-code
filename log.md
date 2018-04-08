@@ -666,3 +666,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** Just the 1 hour session this evening. Managed to style an example Article div, now I just need to work out how to display the data I've returned from the API. Once this is done, the project is basically complete. 
 
 **Link to work:** [GitHub - Wikipedia](https://github.com/D-Pagey/wikipedia)
+
+### Day 82: 8th April 2018 
+
+**Today's Progress:** Finished Reactifying Wikipedia project. 
+
+**Thoughts:** I got stuck last time with displaying the data in the array of objects. This stumped me for a few days because I was too lazy to tackle the problem head on. Today I spent a lot of time trouble shooting the issue and eventually managed to work through it. I have now finished this project and have sent a Pull Request to some colleagues for them to review it. 
+
+**Link to work:** [GitHub - Wikipedia](https://github.com/D-Pagey/wikipedia)
