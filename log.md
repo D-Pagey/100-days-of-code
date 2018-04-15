@@ -674,3 +674,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** I got stuck last time with displaying the data in the array of objects. This stumped me for a few days because I was too lazy to tackle the problem head on. Today I spent a lot of time trouble shooting the issue and eventually managed to work through it. I have now finished this project and have sent a Pull Request to some colleagues for them to review it. 
 
 **Link to work:** [GitHub - Wikipedia](https://github.com/D-Pagey/wikipedia)
+
+### Day 83: 15th April 2018 
+
+**Today's Progress:** Stuck with updating state on TwitchTV app. 
+
+**Thoughts:** I've managed to rebuild the Twitch app in React and am now only struggling with displaying the data I fetched. I think this is due to a fundamental misunderstanding with how state works in React. Reactifying this app has helped me understand a few concepts in JavaScript I didn't realise I didn't fully understand.
+
+**Link to work:** [GitHub - Twitch](https://github.com/D-Pagey/twitchtv)
