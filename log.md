@@ -682,3 +682,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** I've managed to rebuild the Twitch app in React and am now only struggling with displaying the data I fetched. I think this is due to a fundamental misunderstanding with how state works in React. Reactifying this app has helped me understand a few concepts in JavaScript I didn't realise I didn't fully understand.
 
 **Link to work:** [GitHub - Twitch](https://github.com/D-Pagey/twitchtv)
+
+### Day 84: 21st April 2018 
+
+**Today's Progress:** Refactoring TicTacToe game. 
+
+**Thoughts:** Quick update today - refactored the code in the Tic Tac Toe game and started researching how to do the logic behind the game in native JS. I thought it would be easier than it seems to be at the moment. I have a lot of projects I want to work on: Reactifying native projects, Foom, Consensus, Hiring predictor etc. However, I'm keen to push for this FreeCodeCamp certification so want to work through these last 2 projects. 
+
+**Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
