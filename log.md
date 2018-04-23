@@ -691,10 +691,18 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
 
-### Day 85: 25nd April 2018 
+### Day 85: 22nd April 2018 
 
 **Today's Progress:** Almost finished TicTacToe. 
 
 **Thoughts:** Made a lot of headway with the TicTacToe game and now just need to fix some bugs. It's really interesting going from working in React to native JS. I'm ever so slightly closer to that FreeCodeCamp certificate. 
+
+**Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
+
+### Day 86: 23rd April 2018 
+
+**Today's Progress:** Finished TicTacToe game. 
+
+**Thoughts:** Thanks to some sleep and pen and paper, I quickly solved a key bug in the code and finished the TicTacToe game in native JavaScript. I'm really happy to have finished it, now onto the next project!
 
 **Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
