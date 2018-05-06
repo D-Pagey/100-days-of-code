@@ -706,3 +706,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** Thanks to some sleep and pen and paper, I quickly solved a key bug in the code and finished the TicTacToe game in native JavaScript. I'm really happy to have finished it, now onto the next project!
 
 **Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
+
+### Day 87: 6th May 2018 
+
+**Today's Progress:** Made headway with a big obstacle on TwitchTV (React version) project. 
+
+**Thoughts:** I've been stuck on this Twitch TV project for a while and sadly decided to avoid tackling it. However, today I sat down and refactored the code and made significant headway. This has given me a boost of energy to finish this project and get back on track with my coding timeline. I had to trial and error for quite a while around accessing props in React and destructuring objects. I also realised I'd been trying to map over an object rather than an array. 
+
+**Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/twitchtv)
