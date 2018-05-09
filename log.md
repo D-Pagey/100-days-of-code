@@ -719,6 +719,6 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Today's Progress:** Pushed through huge obstacle on Twitch project. 
 
-**Thoughts:** With the help of some devs at work, managed to get past a big blocker in this project. It feels great because I didn't know how it was going to be possible. Now I just need to finish up on a few things and this will be another React project done! 
+**Thoughts:** With the help of some devs at work, managed to get finally fetch multiple Twitch streams to then update state. It feels great because I didn't know how it was going to be possible before. Now I just need to finish up on a few things and this will be another React project done! 
 
 **Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/twitchtv)
