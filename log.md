@@ -714,3 +714,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** I've been stuck on this Twitch TV project for a while and sadly decided to avoid tackling it. However, today I sat down and refactored the code and made significant headway. This has given me a boost of energy to finish this project and get back on track with my coding timeline. I had to trial and error for quite a while around accessing props in React and destructuring objects. I also realised I'd been trying to map over an object rather than an array. 
 
 **Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/twitchtv)
+
+### Day 88: 10th May 2018 
+
+**Today's Progress:** Pushed through huge obstacle on Twitch project. 
+
+**Thoughts:** With the help of some devs at work, managed to get past a big blocker in this project. It feels great because I didn't know how it was going to be possible. Now I just need to finish up on a few things and this will be another React project done! 
+
+**Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/twitchtv)
