@@ -722,3 +722,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** With the help of some devs at work, managed to get finally fetch multiple Twitch streams to then update state. It feels great because I didn't know how it was going to be possible before. Now I just need to finish up on a few things and this will be another React project done! 
 
 **Link to work:** [GitHub - TwitchTV](https://github.com/D-Pagey/twitchtv)
+
+### Day 89: 12th May 2018 
+
+**Today's Progress:** Making headway with Simon Game. 
+
+**Thoughts:** This hour I've made some solid ground with this Simon Says game. I've managed to record the users input in a global array and use setInterval to process the generated sequence. The next big step is to create actions depending on if the user is correct or not. I feel so close to the FreeCodeCamp cerificate! 
+
+**Link to work:** [GitHub - Simon Game](https://github.com/D-Pagey/simon-game)
