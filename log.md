@@ -730,3 +730,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** This hour I've made some solid ground with this Simon Says game. I've managed to record the users input in a global array and use setInterval to process the generated sequence. The next big step is to create actions depending on if the user is correct or not. I feel so close to the FreeCodeCamp cerificate! 
 
 **Link to work:** [GitHub - Simon Game](https://github.com/D-Pagey/simon-game)
+
+### Day 90: 13th May 2018 
+
+**Today's Progress:** Pretty much finished Simon Game. 
+
+**Thoughts:** I've pretty much finished all the Simon Game's user stories except for using the Web Audio API which looks more complicated than I'd assumed. The game works and is a bit buggy, I feel like the code is a bit hacky. I can't wait to finish but I feel like this is making me rush things rather than trying to write quality code. 
+
+**Link to work:** [GitHub - Simon Game](https://github.com/D-Pagey/simon-game)
