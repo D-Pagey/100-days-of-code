@@ -738,3 +738,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** I've pretty much finished all the Simon Game's user stories except for using the Web Audio API which looks more complicated than I'd assumed. The game works and is a bit buggy, I feel like the code is a bit hacky. I can't wait to finish but I feel like this is making me rush things rather than trying to write quality code. 
 
 **Link to work:** [GitHub - Simon Game](https://github.com/D-Pagey/simon-game)
+
+### Day 91: 14th May 2018 
+
+**Today's Progress:** GOT THE FREECODECAMP CERTIFICATE. 
+
+**Thoughts:** I quickly worked out how to use the <audio> element and therefore completed the Simon Game. I then received my certificate from Free Code Camp for completing their Front End course. It was a bit of an anti-climax but on the other hand it is really satisfying to have attained something that 1) I didn't think I would ever get to and 2) I had been working towards for a long time. 
+
+**Link to work:** [GitHub - Simon Game](https://github.com/D-Pagey/simon-game)
