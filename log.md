@@ -746,3 +746,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** I quickly worked out how to use the <audio> element and therefore completed the Simon Game. I then received my certificate from Free Code Camp for completing their Front End course. It was a bit of an anti-climax but on the other hand it is really satisfying to have attained something that 1) I didn't think I would ever get to and 2) I had been working towards for a long time. 
 
 **Link to work:** [GitHub - Simon Game](https://github.com/D-Pagey/simon-game)
+
+### Day 92: 15th May 2018 
+
+**Today's Progress:** Redesigning portfolio. 
+
+**Thoughts:** I decided that I want to completely redesign my portfolio. I spent the hour researching other portfolios and noting what I like and don't like. I decided on what I consider my brand to be and how could I get that across in a succint way. I've sketched out what I would like the portfolio to look like so now just to build it and iterate on it. 
+
+**Link to work:** N/A
