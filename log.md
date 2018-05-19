@@ -754,3 +754,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** I decided that I want to completely redesign my portfolio. I spent the hour researching other portfolios and noting what I like and don't like. I decided on what I consider my brand to be and how could I get that across in a succint way. I've sketched out what I would like the portfolio to look like so now just to build it and iterate on it. 
 
 **Link to work:** N/A
+
+### Day 93: 19th May 2018 
+
+**Today's Progress:** Rebuilding portfolio. 
+
+**Thoughts:** I started rebuilding my website from the designs I sketched the last session. It's going well but I feel like I'm slightly behind my Development Plan so I went back to completed the FCC algorithms. Lots of things I want to work on and not enough time to do it! I'm actually quite happy with the start I have made on the redesign of my website. 
+
+**Link to work:** [GitHub - Website](https://github.com/D-Pagey/D-Pagey.github.io)
