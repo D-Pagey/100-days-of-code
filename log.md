@@ -762,3 +762,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** I started rebuilding my website from the designs I sketched the last session. It's going well but I feel like I'm slightly behind my Development Plan so I went back to completed the FCC algorithms. Lots of things I want to work on and not enough time to do it! I'm actually quite happy with the start I have made on the redesign of my website. 
 
 **Link to work:** [GitHub - Website](https://github.com/D-Pagey/D-Pagey.github.io)
+
+### Day 94: 12th June 2018 
+
+**Today's Progress:** Adding new feature to website. 
+
+**Thoughts:** Today I spent time incorporating D3 into my website to visualise my current technical skills. It was awesome being able to use a new technology I had been learning and actually visualise some data. The more I use D3 the more I feel comfortable with it and so I look forward to getting better at it.
+
+**Link to work:** [Website](www.danpage.co.uk)
