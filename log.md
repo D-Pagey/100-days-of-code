@@ -770,3 +770,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Thoughts:** Today I spent time incorporating D3 into my website to visualise my current technical skills. It was awesome being able to use a new technology I had been learning and actually visualise some data. The more I use D3 the more I feel comfortable with it and so I look forward to getting better at it.
 
 **Link to work:** [Website](www.danpage.co.uk)
+
+### Day 95: 13th June 2018 
+
+**Today's Progress:** Finishing off React version of TicTacToe. 
+
+**Thoughts:** Thanks to a friend, I worked through a tough bug in the React version of the TicTacToe project. This meant the rest of the project was pretty straight forward and so I managed to retire the project today. I'm not super proud of the code but at same time I just need to move on to move complex projects. 
+
+**Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
