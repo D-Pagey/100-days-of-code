@@ -771,10 +771,20 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [Website](www.danpage.co.uk)
 
-### Day 95: 13th June 2018 
+### Day 95: 15th June 2018 
 
 **Today's Progress:** Finishing off React version of TicTacToe. 
 
 **Thoughts:** Thanks to a friend, I worked through a tough bug in the React version of the TicTacToe project. This meant the rest of the project was pretty straight forward and so I managed to retire the project today. I'm not super proud of the code but at same time I just need to move on to move complex projects. 
 
 **Link to work:** [GitHub - TicTacToe](https://github.com/D-Pagey/tictactoe)
+
+### Day 96: 16th June 2018 
+
+**Today's Progress:** Starting to Reactify Pomodoro project.  
+
+**Thoughts:** I started working on rebuilding my Pomodoro clock in React. It's cool to work on a project that I would ideally use but it is initially quite confusing, as the React version seems like it's going to be a lot different than my vanilla version. 
+
+**Link to work:** [GitHub - Pomodoro](https://github.com/D-Pagey/pomodoro)
+
+
