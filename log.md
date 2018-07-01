@@ -787,4 +787,12 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 
 **Link to work:** [GitHub - Pomodoro](https://github.com/D-Pagey/pomodoro)
 
+### Day 97: 1st July 2018 
+
+**Today's Progress:** Finishing off next version of my website.
+
+**Thoughts:** Today I have been working on my website to get it to a point where I would be happy to present it as part of a job application. I have been adding to my D3 chart to try to illustrate my tech skills, as well as general styling on the site. It's quite scary to put my website out there as part of an application, but at the same time it's quite exciting. 
+
+**Link to work:** [GitHub - Website](https://github.com/D-Pagey/D-Pagey.github.io)
+
 
