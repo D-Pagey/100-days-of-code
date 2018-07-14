@@ -800,7 +800,6 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 **Today's Progress:** Object Oriented Programming Challenges.
 
 **Thoughts:** I had a really tough week at work this week and so have been distracted in the evenings and therefore haven't
-been coding. I was a bit intimidated about picking up where I left off and so did some FreeCodeCamp challenges to 
-1) Restore some confidence in my coding and 2) Solidify my OOP fundamentals. Learnt about prototypes and constructors in OOP. 
+been coding. I was a bit intimidated about picking up where I left off and so did some FreeCodeCamp challenges to restore some confidence in my coding and solidify my OOP fundamentals. Learnt about prototypes and constructors in OOP. 
 
 **Link to work:** N/A
