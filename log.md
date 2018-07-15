@@ -803,3 +803,11 @@ It feels slightly different working on a project that I'm quite invested in. Wor
 been coding. I was a bit intimidated about picking up where I left off and so did some FreeCodeCamp challenges to restore some confidence in my coding and solidify my OOP fundamentals. Learnt about prototypes and constructors in OOP. 
 
 **Link to work:** N/A
+
+### Day 99: 15th July 2018 
+
+**Today's Progress:** Started Functional Programming on FCC and working on Simon Game.
+
+**Thoughts:** I finished the OOP modules and found it interesting so started with the Functional Programming. Halfway through I just wanted to start working on an app and build something, so I got the confidence to return to my Simon Game. It's quite tough but I'm happy that I'm back struggling through it. 
+
+**Link to work:** [GitHub - Simon Game](https://github.com/D-Pagey/simon-game)
