@@ -811,3 +811,13 @@ been coding. I was a bit intimidated about picking up where I left off and so di
 **Thoughts:** I finished the OOP modules and found it interesting so started with the Functional Programming. Halfway through I just wanted to start working on an app and build something, so I got the confidence to return to my Simon Game. It's quite tough but I'm happy that I'm back struggling through it. 
 
 **Link to work:** [GitHub - Simon Game](https://github.com/D-Pagey/simon-game)
+
+### Day 100: 19th July 2018 
+
+**Today's Progress:** Started my first interview take-home task! 
+
+**Thoughts:** This evening I started work on my first coding challenge for a company, which is a good way to end the 100DoC challenge. 
+The task seems challenging but doable so I'm looking forward to seeing how I get on with it. I will definitely learn a lot in the 
+process of completing it and recieving feedback on the submission. I want to put a serious amount of effort into this and give myself the best chance possible. 
+
+**Link to work:** [GitHub - Search Page](https://github.com/D-Pagey/search-page)
