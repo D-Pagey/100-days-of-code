@@ -821,3 +821,11 @@ The task seems challenging but doable so I'm looking forward to seeing how I get
 process of completing it and recieving feedback on the submission. I want to put a serious amount of effort into this and give myself the best chance possible. 
 
 **Link to work:** [GitHub - Search Page](https://github.com/D-Pagey/search-page)
+
+### Day 101: 10th September 2018
+
+**Today's Progress:** My first day at my new job as a Junior Front End Developer. 
+
+**Thoughts:** I ended up getting the job for the take-home task I did on day #100, and today was my first day. It was pretty cool to be working as a Developer after spending a year working towards this goal. It was wierd introducing myself and my role at the company as a Front End Developer. I feel 50% imposter syndrome and 50% "I can do this.", I guess time will tell. 
+
+**Link to work:** [LinkedIN](https://www.linkedin.com/in/dan-page/)
